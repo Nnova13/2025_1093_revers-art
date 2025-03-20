@@ -11,10 +11,12 @@ Le projet **Trophée NSI - Recherche d'Œuvres d'Art** est une application web q
 
 ## ⚙️ Technologies
 
-- **![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)** : Pour structurer la page et la mise en forme 🏗️.
-- **![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)** : Pour le style et la mise en page responsive 📱.
-- **![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)** : Dynamiser la page, notamment pour la prévisualisation d'image 💻.
-- **![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)** : Framework backend pour gérer le serveur Flask et les requêtes 🐍.
+| 🔧 Outil / Langage | 💡 Utilisation                      |
+|--------------------|-------------------------------------|
+**![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)** | Pour structurer la page et la mise en forme 🏗️|
+|**![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)** | Pour le style et la mise en page responsive 📱|
+|**![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)** | Dynamiser la page, notamment pour la prévisualisation d'image 💻|
+|**![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)** | Framework backend pour gérer le serveur Flask et les requêtes 🐍|
 
 ## 🛠️ Installation
 
@@ -45,41 +47,6 @@ Le projet **Trophée NSI - Recherche d'Œuvres d'Art** est une application web q
    http://127.0.0.1:5000
    ```
 
-## 🧩 Structure
-
-```text
-2025_1093_revers-art/
-│   licence.txt
-│   README.md
-│   requirements.txt
-│
-├───data/
-│   ├── crawler.json
-│
-├───docs/
-│   ├── PROJETINFOS.md
-│
-└───sources/
-    │   crawler.py
-    │   main.py
-    │   scrapInfos.py
-    │   test.py
-    │
-    ├───reves-art-app/
-    │   └── app.py
-    │
-    ├───static/
-    │   └───css/
-    │       ├── error.css
-    │       ├── index.css
-    │       └── oeuvre.css
-    │
-    └───templates/
-        ├── error.html
-        ├── index.html
-        └── oeuvre.html
-```
-
 ## 🚧 Roadmap
 
 Voici les fonctionnalités que nous prévoyons d'ajouter dans les prochaines versions :
@@ -90,7 +57,7 @@ Voici les fonctionnalités que nous prévoyons d'ajouter dans les prochaines ver
 - [ ] Ajuster le rendu des infotmations entièrement en français
 - [ ] Mettre en marche la version App.
 
-## Auteurs 👩‍💻👨‍💻
+## 👨‍💻 Auteurs
 
 Ce projet a été développé par :
 

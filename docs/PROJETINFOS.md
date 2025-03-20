@@ -5,7 +5,7 @@ Ce fichier explique la **structure du projet**, le **rôle des fichiers**, et l�
 
 ---
 
-## 🌳 Arborescence du projet
+## 🌳 Structure
 
 ```text
 2025_1093_revers-art/
@@ -23,7 +23,7 @@ Ce fichier explique la **structure du projet**, le **rôle des fichiers**, et l�
     │   crawler.py           ← Script de récupération de données (pour la base de donées)
     │   main.py              ← Lanceur principal du programme (serveur Flask)
     │   scrapInfos.py        ← Fonctions de scraping
-    │   test.py              ← Fichier de test du code
+    │   test.py              ← Trouve l'image dans la base de donnée avec la hash
     │
     ├───reves-art-app/       ← Application Tkinter
     │   └── app.py           ← Lanceur de l'application
@@ -38,4 +38,16 @@ Ce fichier explique la **structure du projet**, le **rôle des fichiers**, et l�
         ├── error.html       ← Page erreur
         ├── index.html       ← Page principale
         └── oeuvre.html      ← Page d'affichage des résulats
+```
+
+## ⚙️ Schéma de fonctionnement du projet
+```
+crawler.json ◄─► test.py ◄─► scrapInfos.py
+                                  │
+                                  ▼
+                              main.py (Flask)
+                                  │
+                ┌─────────────────┴─────────────────┐
+                ▼                                   ▼
+          templates/ (HTML)                static/css (styles)
 ```
