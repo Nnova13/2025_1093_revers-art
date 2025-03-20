@@ -41,42 +41,43 @@ Le projet **Trophée NSI - Recherche d'Œuvres d'Art** est une application web q
    ```
 
 4. Ouvrir le navigateur 🌍 :
-   ```bash
+   ```url
    http://127.0.0.1:5000
    ```
 
 ## 🧩 Structure
 
-```bash
-2025_1093_revers-art
+```text
+2025_1093_revers-art/
 │   licence.txt
 │   README.md
 │   requirements.txt
 │
-├───data
-│       crawler.json
-│       image.jpg
+├───data/
+│   ├── crawler.json
 │
-├───docs
-└───sources
+├───docs/
+│   ├── PROJETINFOS.md
+│
+└───sources/
     │   crawler.py
     │   main.py
     │   scrapInfos.py
     │   test.py
     │
-    ├───reves-art-app
-    │       app.py
+    ├───reves-art-app/
+    │   └── app.py
     │
-    ├───static
-    │   └───css
-    │           error.css
-    │           index.css
-    │           oeuvre.css
+    ├───static/
+    │   └───css/
+    │       ├── error.css
+    │       ├── index.css
+    │       └── oeuvre.css
     │
-    └───templates
-            error.html
-            index.html
-            oeuvre.html
+    └───templates/
+        ├── error.html
+        ├── index.html
+        └── oeuvre.html
 ```
 
 ## 🚧 Roadmap
