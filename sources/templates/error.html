@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erreur - Trophée NSI</title>
+    <link href="{{ url_for('static', filename='css/error.css') }}" rel="stylesheet">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="error-card">
+            <h1>❌ Une erreur est survenue</h1>
+            <p class="error-message">{{ error }}</p>
+            <a href="/" class="btn-return">⬅️ Retour à l’accueil</a>
+        </div>
+    </div>
+</body>
+</html>

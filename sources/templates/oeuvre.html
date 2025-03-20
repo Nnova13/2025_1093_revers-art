@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{{ url_for('static', filename='css/oeuvre.css') }}" rel="stylesheet">
+    <title>OEUVRES INFOS</title>
+</head>
+<body>
+    <div class="top-bar">
+        <a href="/" class="btn">← Rechercher une autre œuvre</a>
+    </div>
+
+    <div class="container">
+        <div class="artwork">
+            <img src="{{ scrap['OEUVRE']['imageUrl'] }}" alt="Image de l'œuvre">
+
+            <div class="details">
+                <h2>🎨 Informations sur l'œuvre</h2>
+                <p><strong>Nom :</strong> {{ scrap['OEUVRE']['nomOeuvre'] }}</p>
+                <p><strong>Date :</strong> {{ scrap['OEUVRE']['date'] }}</p>
+                <p><strong>Lieu d'exposition :</strong> {{ scrap['OEUVRE']['lieuExposition'] }}</p>
+                <p><strong>Style :</strong> {{ scrap['OEUVRE']['style'] }}</p>
+                <p><strong>Dimensions :</strong> {{ scrap['OEUVRE']['dimension'] }}</p>
+
+                <h2>🧑‍🎨 Informations sur l’artiste</h2>
+                <p><strong>Nom :</strong> {{ scrap['ARTISTE']['nomArtiste'] }}</p>
+                <p><strong>Naissance :</strong> {{ scrap['ARTISTE']['birthArtiste'] }} à {{ scrap['ARTISTE']['birthPlace'] }}</p>
+                <p><strong>Décès :</strong> {{ scrap['ARTISTE']['deathArtiste'] }} à {{ scrap['ARTISTE']['deathPlace'] }}</p>
+                <p><strong>Nationalité :</strong> {{ scrap['ARTISTE']['nationality'] }}</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
