@@ -29,7 +29,7 @@ def rechercher_image_pil(image, seuil_hamming=18):
 
     for h in base_hashes:
         hash_image = imagehash.hex_to_hash(h["hash"])
-        distance = new_hash - hash_image  
+        distance = new_hash - hash_image
 
         if distance == 0:
             print(f"✅ Correspondance exacte trouvée ! ({h['oeuvre']})")

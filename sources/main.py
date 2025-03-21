@@ -31,7 +31,7 @@ def uploadImageAndRenderResult():
         try:
             return render_template("oeuvre.html", scrap=scrapInfos(url))
         except:
-            return render_template('error.html', error='Aucune correspondance trouvée.')
+            return render_template('error.html', error='Aucune correspondance trouvée. (Essayer d\'augmenter le seuil)')
     else:
         return render_template('error.html', error='Fichier non autorisé ou invalide')
 

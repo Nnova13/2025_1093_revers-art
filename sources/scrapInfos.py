@@ -14,23 +14,23 @@ def scrapInfos(url:str):
     try:
         nomOeuvre = oeuvreSoup.find('h3').text
     except:
-        nomOeuvre = "❌"
+        nomOeuvre = "Non défini"
     try:
         date = oeuvreSoup.find("span", itemprop='dateCreated').text
     except:
-        date = "❌"
+        date = "Non défini"
     try:
         lieuExposition = oeuvreSoup.find("li", class_="dictionary-values-gallery").find("span").text
     except:
-        lieuExposition = "❌"
+        lieuExposition = "Non défini"
     try:
         style = oeuvreSoup.find('li', class_='dictionary-values').find('span').find('a').text
     except:
-        style = "❌"
+        style = "Non défini"
     try:
         dimension = str(oeuvreSoup.find('s', class_='title').parent.contents[2]).strip()
     except:
-        dimension = "❌"
+        dimension = "Non défini"
     try:
         imageUrl = oeuvreSoup.find('img', itemprop='image')['src']
     except:
@@ -48,28 +48,28 @@ def scrapInfos(url:str):
     try:
         nomArtiste = str(artisteSoup.find('h3').text).strip()
     except:
-        nomArtiste = "❌"
+        nomArtiste = "Non défini"
 
     try:
         birthArtiste = artisteSoup.find('span', itemprop = "birthDate").text
     except:
-        birthArtiste = "❌"
+        birthArtiste = "Non défini"
     try:
         birthPlace = artisteSoup.find('span', itemprop = "birthPlace").text
     except:
-        birthPlace = "❌"
+        birthPlace = "Non défini"
     try:
         deathArtiste = artisteSoup.find('span', itemprop = "deathDate").text
     except:
-        deathArtiste = "❌"
+        deathArtiste = "Non défini"
     try:
         deathPlace = artisteSoup.find('span', itemprop = "deathPlace").text
     except:
-        deathPlace = "❌"
+        deathPlace = "Non défini"
     try:
         nationality = artisteSoup.find('span', itemprop = "nationality").text
     except:
-        nationality = "❌"
+        nationality = "Non défini"
 
     data = {
         "OEUVRE":{
