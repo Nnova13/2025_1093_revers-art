@@ -47,8 +47,8 @@ def rechercher_image_pil(image, seuil_hamming=18):
     return None
 
 
-def final_res(image_test):
-    resultat = rechercher_image_pil(image_test)
+def final_res(image_test, seuil = 18):
+    resultat = rechercher_image_pil(image_test, seuil)
     if resultat:
         print(f"🖼️ Infos de l'œuvre trouvée : {resultat}")
         return resultat['url_page']
