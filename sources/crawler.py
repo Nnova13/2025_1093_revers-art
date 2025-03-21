@@ -10,7 +10,7 @@ from io import BytesIO
 import html
 
 
-FICHIER_HASHES = os.path.join(os.path.dirname(__file__), '../crawler.json')
+FICHIER_HASHES = os.path.join(os.path.dirname(__file__), './data/crawler.json')
 MAX_THREADS = 30
 BASE_URL = "https://www.wikiart.org"
 RANDOM_URL = f"{BASE_URL}/fr/random"

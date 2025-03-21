@@ -54,7 +54,7 @@ Voici les fonctionnalités que nous prévoyons d'ajouter dans les prochaines ver
 
 - [X] Page d'erreur à perfectioner
 - [X] Implémentation du téléchargement pour la version App
-- [ ] Ajouter un fonctionalité pour gérer le seuil du comparage du hash
+- [X] Ajouter un fonctionalité pour gérer le seuil du comparage du hash
 - [ ] Augmenter le nombre d'œuvre dans la base de donnée
 - [ ] Ajuster le rendu des infotmations entièrement en français
 - [ ] Mettre en marche la version App
