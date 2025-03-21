@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 from PIL import Image
 from scrapInfos import scrapInfos
+# import test
 from test import final_res
 
 app = Flask(__name__)
@@ -24,9 +25,11 @@ def uploadImageAndRenderResult():
         image = Image.open(file)
         new_size = (256, 256)  
         image = image.resize(new_size, Image.LANCZOS)
+        
+        url = final_res(image, int(request.form.get('threshold')))
 
         try:
-            return render_template("oeuvre.html", scrap=scrapInfos(final_res(image)))
+            return render_template("oeuvre.html", scrap=scrapInfos(url))
         except:
             return render_template('error.html', error='Aucune correspondance trouvée.')
     else:

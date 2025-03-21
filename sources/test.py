@@ -46,8 +46,7 @@ def rechercher_image_pil(image, seuil_hamming=18):
     print("❌ Aucune correspondance trouvée.")
     return None
 
-
-def final_res(image_test, seuil = 18):
+def final_res(image_test, seuil=18):
     resultat = rechercher_image_pil(image_test, seuil)
     if resultat:
         print(f"🖼️ Infos de l'œuvre trouvée : {resultat}")

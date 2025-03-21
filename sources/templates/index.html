@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -14,12 +14,22 @@
 
         <form class="uploadForm" enctype="multipart/form-data" action="/art" method="POST">
             <div class="upload-card">
-                <label for="fileInput" class="upload-label">📁 Choisir une image</label>
+
+                <div class="upload-row">
+                    <label for="fileInput" class="upload-label">📁 Choisir une image</label>
+                    <div class="threshold-inline">
+                        <label for="threshold">Seuil :</label>
+                        <input type="number" id="threshold" name="threshold" value="18">
+                    </div>
+                </div>
+
                 <input type="file" id="fileInput" name="image" accept="image/*" required>
                 <p id="fileName">Aucun fichier sélectionné</p>
+
                 <div id="previewContainer">
                     <img id="imagePreview" src="#" alt="Aperçu de l'image" style="display: none;">
                 </div>
+
                 <button type="submit">🔍 Rechercher</button>
             </div>
         </form>

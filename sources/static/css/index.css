@@ -37,8 +37,17 @@ h1 {
     background: rgba(255, 248, 225, 0.3);
     border-radius: 20px;
     padding: 30px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
     text-align: center;
+}
+
+.upload-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 15px;
 }
 
 .upload-label {
@@ -49,7 +58,6 @@ h1 {
     padding: 12px 25px;
     border-radius: 10px;
     cursor: pointer;
-    margin-bottom: 15px;
     transition: background 0.3s ease-in-out;
 }
 
@@ -59,6 +67,28 @@ h1 {
 
 input[type="file"] {
     display: none;
+}
+
+.threshold-inline {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.threshold-inline label {
+    font-size: 16px;
+    color: #5d4037;
+    margin: 0;
+}
+
+.threshold-inline input {
+    width: 70px;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #a1887f;
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
 }
 
 #fileName {
@@ -79,26 +109,15 @@ input[type="file"] {
     height: auto;
 }
 
-/* #imagePreview {
-    max-width: 100%;
-    max-height: 300px;
-    width: auto;
-    height: auto;
-    object-fit: contain;
-    border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-} */
-
 #imagePreview {
     width: 200px;
     height: 200px;
-    object-fit: cover; /* ou 'contain' selon ce que tu préfères */
+    object-fit: cover;
     border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     display: block;
     margin-top: 15px;
 }
-
 
 button {
     background: #a1887f;
@@ -130,7 +149,7 @@ button:hover {
     font-size: 18px;
     text-decoration: none;
     border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     transition: background 0.3s ease-in-out, transform 0.3s ease-in-out;
 }
 
@@ -138,7 +157,6 @@ button:hover {
     background-color: #795548;
     transform: scale(1.05);
 }
-
 
 @media screen and (max-width: 600px) {
     h1 {
@@ -156,5 +174,18 @@ button:hover {
 
     .upload-card {
         padding: 20px;
+    }
+
+    .upload-row {
+        flex-direction: column;
+    }
+
+    .threshold-inline {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .threshold-inline input {
+        width: 100%;
     }
 }
