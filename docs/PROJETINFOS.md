@@ -13,7 +13,7 @@ Ce fichier explique la **structure du projet**, le **rôle des fichiers**, et l�
 │   README.md                ← Présentation générale
 │   requirements.txt         ← Bibliothèques Python nécessaires
 │
-├───data/                    ← Données utilisées par le projet
+├───data/                    ← 💾 Données utilisées par le projet
 │   ├── crawler.json         ← Base de donée avec hash des images
 │
 ├───docs/                    ← 📚 Documentation technique
@@ -25,7 +25,7 @@ Ce fichier explique la **structure du projet**, le **rôle des fichiers**, et l�
     │   scrapInfos.py        ← Fonctions de scraping
     │   test.py              ← Trouve l'image dans la base de donnée avec la hash
     │
-    ├───reves-art-app/       ← Application Tkinter
+    ├───reves-art-app/       ← 🧩 Application Tkinter
     │   └── app.py           ← Lanceur de l'application
     │
     ├───static/              ← 🎨 Fichiers statiques

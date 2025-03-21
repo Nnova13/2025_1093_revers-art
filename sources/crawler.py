@@ -3,15 +3,15 @@ from bs4 import BeautifulSoup
 import imagehash
 import json
 import os
-import os.path
 import threading
 from queue import Queue
 from PIL import Image
 from io import BytesIO
 import html
 
-FICHIER_HASHES = os.path.abspath('./data/crawler.json')
-MAX_THREADS = 5
+
+FICHIER_HASHES = os.path.join(os.path.dirname(__file__), '../crawler.json')
+MAX_THREADS = 30
 BASE_URL = "https://www.wikiart.org"
 RANDOM_URL = f"{BASE_URL}/fr/random"
 verrou = threading.Lock()
@@ -86,36 +86,30 @@ def hacher_image():
 
             data = {"url_page": url_page, "hash": hash_image, "artiste": artiste, "oeuvre": oeuvre}
             sauvegarder_hashes([data])
-            print(f"✅ Ajout : {artiste} - {oeuvre} ({url_page})")
+            # print(f"✅ Ajout : {artiste} - {oeuvre} ({url_page})")
 
     except Exception as e:
         print(f"❌ Erreur de traitement :", e)
 
 def worker():
-    """Thread qui traite une page aléatoire."""
+    """Thread qui tourne en boucle infinie pour traiter les images en continu."""
     while True:
-        file_urls.get()
         hacher_image()
-        file_urls.task_done()
 
 def crawler_art():
-    """Démarre le crawler multithread sur des pages aléatoires."""
-    print("🚀 Démarrage du crawler...")
+    """Démarre le crawler multithread pour tourner en continu."""
+    print("🚀 Démarrage du crawler (CTRL+C pour arrêter)...")
 
-    for _ in range(MAX_THREADS * 3):  
-        file_urls.put(None)
-
-    print("⚡ Lancement des threads...")
     threads = [threading.Thread(target=worker, daemon=True) for _ in range(MAX_THREADS)]
 
     for t in threads:
         t.start()
 
-    file_urls.join()
-
-    for _ in range(MAX_THREADS):
-        file_urls.put(None)
-    for t in threads:
-        t.join()
+    try:
+        while True: 
+            pass
+    except KeyboardInterrupt:
+        print("\n🛑 Arrêt du crawler demandé. Fermeture des threads...")
+        os._exit(0) 
 
 crawler_art()
