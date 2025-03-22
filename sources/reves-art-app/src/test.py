@@ -2,7 +2,7 @@ import json
 import imagehash
 import os.path
 
-FICHIER_JSON = os.path.abspath('./data/crawler.json')
+FICHIER_JSON = os.path.join(os.path.dirname(__file__), "data/crawler.json")  
 
 SEUIL_HAMMING = 18 
 
