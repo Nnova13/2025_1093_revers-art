@@ -40,7 +40,7 @@ def import_file():
     file_path = filedialog.askopenfilename(title="Select an image", filetypes=[("Image files", "*.jpeg;*.jpg;*.png;*.gif"), ("All files", "*.*")])
     if file_path:
         print("Selected file:", file_path)
-        copy_path = shutil.copy(src=file_path, dst="./image")
+        copy_path = shutil.copy(src=file_path, dst="data/image")
         print(copy_path)
         
         image = CTkImage(light_image=Image.open(copy_path), dark_image=Image.open(copy_path), size=(250, 250))
@@ -96,7 +96,7 @@ def import_file():
 
 # Function to open GitHub page
 def open_github():
-    webbrowser.open("https://github.com/nnova13/reverse-art")
+    webbrowser.open("https://github.com/Nnova13/2025_1093_revers-art")
 
 # Left panel for image selection
 leftFrame = CTkFrame(window, corner_radius=10)
