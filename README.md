@@ -29,8 +29,8 @@ Le projet **Trophée NSI - Recherche d'Œuvres d'Art** est une application web q
 
 1. Cloner le projet sur votre machine 💻 :
    ```bash
-   git clone https://github.com/nnova13/revers-art.git
-   cd revers-art/2025_1093_revers-art
+   git clone https://github.com/Nnova13/2025_1093_revers-art.git
+   cd 2025_1093_revers-art
    ```
 
 2. Télécharger les modules 📦 :
