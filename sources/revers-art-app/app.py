@@ -137,6 +137,4 @@ textBox.grid(row=0, column=0, padx=20, pady=20, sticky=NSEW)
 textBox.insert("1.0", "Bienvenue sur ReverseImage!\n")
 textBox.configure(state="disabled")  # Désactiver l'édition
 
-
-
 window.mainloop()
