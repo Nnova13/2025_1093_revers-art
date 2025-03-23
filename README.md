@@ -68,10 +68,10 @@ Un seuil faible recherche des copies très proches, un seuil élevé élargit la
 - [X] ❌ Page d'erreur à perfectioner
 - [X] 📥 Implémentation du téléchargement pour la version App
 - [X] 🎯 Ajouter un fonctionalité pour gérer le seuil du comparaison du hash
+- [X] 💬 Ajouter un système de logs ou de console debug propre
+- [X] 📱 Mettre en marche la version App
 - [ ] 📗 Augmenter le nombre d'œuvre dans la base de donnée
-- [ ] 🇫🇷 Ajuster le rendu des informations entièrement en français
-- [ ] 📱 Mettre en marche la version App
-- [ ] 💬 Ajouter un système de logs ou de console debug propre
+- [ ] 🥖 Ajuster le rendu des informations entièrement en français
 - [ ] 🔒 Ajouter une gestion d’erreur plus fine (upload invalide, mauvais format)
 - [ ] 📦 Packager le projet avec setup.py ou en .exe via pyinstaller pour Tkinter
 - [ ] ✨ Ajouter une page "À propos" ou crédits

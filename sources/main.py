@@ -1,8 +1,10 @@
+import os
+import sys
 from flask import Flask, render_template, request
 from PIL import Image
 from scrapInfos import scrapInfos
-# import test
 from test import final_res
+import logging
 
 app = Flask(__name__)
 
@@ -36,4 +38,16 @@ def uploadImageAndRenderResult():
         return render_template('error.html', error='Fichier non autorisé ou invalide')
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    pro = True
+    print("==============================")
+    print("🚀 Lancement du serveur...")
+    print("🌐 http://127.0.0.1:5000")
+    print("==============================")
+    if pro == True:
+        log = logging.getLogger('werkzeug')
+        log.setLevel(logging.ERROR)
+        sys.stderr = open(os.devnull, 'w')
+
+        app.run(debug=False, use_reloader=False)
+    else:
+        app.run(debug=True, use_reloader=True)
