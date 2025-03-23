@@ -63,14 +63,13 @@ Un seuil faible recherche des copies très proches, un seuil élevé élargit la
 |----------------|----------|
 | ![Accueil](docs/screenshots/index.png) | ![Résultat](docs/screenshots/oeuvre.png) |
 
-
 ## 🚧 Roadmap
 
 - [X] ❌ Page d'erreur à perfectioner
 - [X] 📥 Implémentation du téléchargement pour la version App
 - [X] 🎯 Ajouter un fonctionalité pour gérer le seuil du comparaison du hash
 - [ ] 📗 Augmenter le nombre d'œuvre dans la base de donnée
-- [ ] 🇫🇷  Ajuster le rendu des informations entièrement en français
+- [ ] 🇫🇷 Ajuster le rendu des informations entièrement en français
 - [ ] 📱 Mettre en marche la version App
 - [ ] 💬 Ajouter un système de logs ou de console debug propre
 - [ ] 🔒 Ajouter une gestion d’erreur plus fine (upload invalide, mauvais format)

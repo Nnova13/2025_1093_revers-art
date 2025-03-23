@@ -16,7 +16,7 @@ def phash_image(image):
     """Calcule le hash perceptuel (average hash) de l'image."""
     return imagehash.average_hash(image)
 
-def rechercher_image_pil(image, seuil_hamming=18):
+def rechercher_image_pil(image, seuil_hamming=2):
     """Recherche une image PIL dans la base avec une distance de Hamming."""
     base_hashes = charger_hashes()
     if not base_hashes:

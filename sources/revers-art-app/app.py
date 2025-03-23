@@ -7,17 +7,17 @@ from sources.scrapInfos import scrapInfos
 from sources.test import final_res
 import os
 
-# # Image folder clearing from start
-# folder = 'image'
-# for filename in os.listdir(folder):
-#     file_path = os.path.join(folder, filename)
-#     try:
-#         if os.path.isfile(file_path) or os.path.islink(file_path):
-#             os.unlink(file_path)
-#         elif os.path.isdir(file_path):
-#             shutil.rmtree(file_path)
-#     except Exception as e:
-#         print('Failed to delete %s. Reason: %s' % (file_path, e))
+# Image folder clearing from start
+folder = 'data/image'
+for filename in os.listdir(folder):
+    file_path = os.path.join(folder, filename)
+    try:
+        if os.path.isfile(file_path) or os.path.islink(file_path):
+            os.unlink(file_path)
+        elif os.path.isdir(file_path):
+            shutil.rmtree(file_path)
+    except Exception as e:
+        print('Failed to delete %s. Reason: %s' % (file_path, e))
 
 # Theme
 set_appearance_mode("dark") 
@@ -60,7 +60,7 @@ def import_file():
             oeuvre = data.get("OEUVRE", {})
             artiste = data.get("ARTISTE", {})
             formatted_data = (
-                f"""
+                rf"""
                  ____                                 _         _   
                 |  _ \ _____   _____ _ __ ___  ___   / \   _ __| |_ 
                 | |_) / _ \ \ / / _ \ '__/ __|/ _ \ / _ \ | '__| __|
