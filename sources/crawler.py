@@ -9,7 +9,6 @@ from PIL import Image
 from io import BytesIO
 import html
 
-
 FICHIER_HASHES = os.path.join(os.path.dirname(__file__), './data/crawler.json')
 MAX_THREADS = 30
 BASE_URL = "https://www.wikiart.org"
@@ -50,7 +49,7 @@ def extraire_infos(soup, url_page):
             oeuvre = json_data.get("title", "Inconnu")
         else:
             artiste, oeuvre = "Inconnu", "Inconnu"
-        
+
         artiste = html.unescape(artiste)
         oeuvre = html.unescape(oeuvre)
         return artiste, oeuvre, img_url
@@ -65,7 +64,7 @@ def hacher_image():
         if r.status_code != 200:
             return
 
-        url_page = r.url  
+        url_page = r.url
         soup = BeautifulSoup(r.content, "html.parser")
         artiste, oeuvre, img_url = extraire_infos(soup, url_page)
 
@@ -80,8 +79,8 @@ def hacher_image():
             if min(img.size) < 100:
                 print(f"❌ Image trop petite sur {url_page}")
                 return
-            
-            img_resized = img.resize((256, 256)) 
+
+            img_resized = img.resize((256, 256))
             hash_image = str(imagehash.average_hash(img_resized))
 
             data = {"url_page": url_page, "hash": hash_image, "artiste": artiste, "oeuvre": oeuvre}
@@ -106,10 +105,10 @@ def crawler_art():
         t.start()
 
     try:
-        while True: 
+        while True:
             pass
     except KeyboardInterrupt:
         print("\n🛑 Arrêt du crawler demandé. Fermeture des threads...")
-        os._exit(0) 
+        os._exit(0)
 
 crawler_art()
