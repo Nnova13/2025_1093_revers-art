@@ -1,5 +1,9 @@
 # 🎨 Trophée NSI - Recherche d'Œuvres d'Art
 
+![Status](https://img.shields.io/badge/Version-Beta-orange)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue)
+![License](https://img.shields.io/badge/license-GPLv3-blue)
+
 ## 📜 Description
 
 Le projet **Trophée NSI - Recherche d'Œuvres d'Art** est une application web qui permet aux utilisateurs d'envoyer une image d'une œuvre d'art 🖼️. Ensuite, l'application utilise le hash de l'image pour l'identifier et renvoyer des informations sur l'œuvre. Ce projet a été développé dans le cadre du concours **Trophée NSI**.
@@ -9,6 +13,11 @@ Le projet **Trophée NSI - Recherche d'Œuvres d'Art** est une application web q
 - Upload d'une image d'œuvre d'art 📤.
 - Envoie du formulaire pour effectuer une recherche sur l'image uploadée 🔍.
 - Affichage d'informations sur l'œuvre (nom, artiste, date, etc.) 📚.
+
+## 🎯 Fonction seuil
+
+Un champ "Seuil" est présent sur la page d’accueil. Il permet de régler la tolérance de la recherche d'œuvres similaires (valeurs recommandées : 0 à 20).  
+Un seuil faible recherche des copies très proches, un seuil élevé élargit la recherche.
 
 ## ⚙️ Technologies
 
@@ -23,7 +32,7 @@ Le projet **Trophée NSI - Recherche d'Œuvres d'Art** est une application web q
 
 ### Prérequis
 - Python 3.x 🐍
-- Pip (gestionnaire de paquets Python) 📦
+- Pip 📦
 
 ### Étapes d'installation :
 
@@ -48,16 +57,25 @@ Le projet **Trophée NSI - Recherche d'Œuvres d'Art** est une application web q
    http://127.0.0.1:5000
    ```
 
+## 📷 Aperçu visuel
+
+| Page d'accueil | Résultat |
+|----------------|----------|
+| ![Accueil](docs/screenshots/index.png) | ![Résultat](docs/screenshots/oeuvre.png) |
+
+
 ## 🚧 Roadmap
 
-Voici les fonctionnalités que nous prévoyons d'ajouter dans les prochaines versions :
-
-- [X] Page d'erreur à perfectioner
-- [X] Implémentation du téléchargement pour la version App
-- [X] Ajouter un fonctionalité pour gérer le seuil du comparage du hash
-- [ ] Augmenter le nombre d'œuvre dans la base de donnée
-- [ ] Ajuster le rendu des infotmations entièrement en français
-- [ ] Mettre en marche la version App
+- [X] ❌ Page d'erreur à perfectioner
+- [X] 📥 Implémentation du téléchargement pour la version App
+- [X] 🎯 Ajouter un fonctionalité pour gérer le seuil du comparaison du hash
+- [ ] 📗 Augmenter le nombre d'œuvre dans la base de donnée
+- [ ] 🇫🇷  Ajuster le rendu des informations entièrement en français
+- [ ] 📱 Mettre en marche la version App
+- [ ] 💬 Ajouter un système de logs ou de console debug propre
+- [ ] 🔒 Ajouter une gestion d’erreur plus fine (upload invalide, mauvais format)
+- [ ] 📦 Packager le projet avec setup.py ou en .exe via pyinstaller pour Tkinter
+- [ ] ✨ Ajouter une page "À propos" ou crédits
 
 ## 👨‍💻 Auteurs
 

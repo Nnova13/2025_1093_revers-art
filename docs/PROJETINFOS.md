@@ -14,13 +14,13 @@ Ce fichier explique la **structure du projet**, le **rôle des fichiers**, et l�
 │   requirements.txt         ← Bibliothèques Python nécessaires
 │
 ├───data/                    ← 💾 Données utilisées par le projet
-│   ├── crawler.json         ← Base de donée avec hash des images
+│   ├── crawler.json         ← Base de donnée avec hash des images
 │
 ├───docs/                    ← 📚 Documentation technique
 │   ├── PROJETINFOS.md       ← Ce fichier
 │
 └───sources/                 ← 💻 Code source principal
-    │   crawler.py           ← Script de récupération de données (pour la base de donées)
+    │   crawler.py           ← Script de récupération de données (pour la base de données)
     │   main.py              ← Lanceur principal du programme (serveur Flask)
     │   scrapInfos.py        ← Fonctions de scraping
     │   test.py              ← Trouve l'image dans la base de donnée avec la hash
