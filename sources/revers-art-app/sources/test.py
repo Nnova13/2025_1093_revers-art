@@ -33,7 +33,7 @@ def rechercher_image_pil(image, seuil_hamming=2):
 
         if distance == 0:
             print(f"✅ Correspondance exacte trouvée ! ({h['oeuvre']})")
-            return h 
+            return h
 
         if distance < distance_minimale:
             distance_minimale = distance
@@ -46,7 +46,7 @@ def rechercher_image_pil(image, seuil_hamming=2):
     print("❌ Aucune correspondance trouvée.")
     return None
 
-def final_res(image_test, seuil=18):
+def final_res(image_test, seuil=5):
     resultat = rechercher_image_pil(image_test, seuil)
     if resultat:
         print(f"🖼️ Infos de l'œuvre trouvée : {resultat}")
