@@ -11,23 +11,14 @@ import html
 import time
 
 FICHIER_HASHES = os.path.join(os.path.dirname(__file__), '../data/crawler.json')
-<<<<<<< HEAD
-MAX_THREADS = 30
-=======
 MAX_THREADS = 200
->>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
 BASE_URL = "https://www.wikiart.org"
 RANDOM_URL = f"{BASE_URL}/fr/random"
 verrou = threading.Lock()
 stop_event = threading.Event()
 
 def sauvegarder_hashes(nouveaux_hashes):
-<<<<<<< HEAD
-    """Ajoute les nouveaux hashes au fichier JSON s'ils ne sont pas déjà enregistrés."""
-    os.makedirs(os.path.dirname(FICHIER_HASHES), exist_ok=True)
-=======
     """Ajoute les nouveaux hashes au fichier JSON de manière sécurisée."""
->>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
     with verrou:
         if os.path.exists(FICHIER_HASHES):
             try:
@@ -100,7 +91,7 @@ def hacher_image():
 
         data = {"url_page": url_page, "hash": hash_image, "artiste": artiste, "oeuvre": oeuvre}
         sauvegarder_hashes([data])
-        print(f"✅ Ajouté : {artiste} - {oeuvre} ({url_page})")
+        # print(f"✅ Ajouté : {artiste} - {oeuvre} ({url_page})")
 
     except requests.exceptions.RequestException as e:
         print(f"⚠️ Erreur réseau : {e}")
