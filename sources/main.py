@@ -25,9 +25,9 @@ def uploadImageAndRenderResult():
 
     if file and allowed_file(file.filename):
         image = Image.open(file)
-        new_size = (256, 256)  
+        new_size = (256, 256)
         image = image.resize(new_size, Image.LANCZOS)
-        
+
         url = final_res(image, int(request.form.get('threshold')))
 
         try:

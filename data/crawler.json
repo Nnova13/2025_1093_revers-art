@@ -8835,6 +8835,7 @@
         "url_page": "https://www.wikiart.org/fr/ivan-aivazovski/moonlit-night-beside-the-sea-1847",
         "hash": "c38180181e8181c3",
         "artiste": "Ivan Aïvazovski",
+<<<<<<< HEAD
         "oeuvre": "Moonlit night beside the sea"
     },
     {
@@ -12610,6 +12611,423 @@
         "hash": "c1c9c9cdcdcbc9c1",
         "artiste": "Michel-Ange",
         "oeuvre": "St. Peter"
+=======
+        "oeuvre": "Calm sea"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/suzanne-valadon/reclining-nude-1928",
+        "hash": "393c7e7e1c383830",
+        "artiste": "Suzanne Valadon",
+        "oeuvre": "Reclining nude"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-veronese/crucifixion-1",
+        "hash": "3c7e18287f1f3900",
+        "artiste": "Paul Véronèse",
+        "oeuvre": "Crucifixion"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theodor-pallady/nude-in-green-chair",
+        "hash": "2120feecfc38fe38",
+        "artiste": "Theodor Pallady",
+        "oeuvre": "Nude in Green Chair"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/constantin-blendea/plutire-verticala",
+        "hash": "103838383c3c3c38",
+        "artiste": "Constantin Blendea",
+        "oeuvre": "Vertical Floating"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ivan-aivazovski/view-of-tiflis-1869",
+        "hash": "ffffffdf0f000000",
+        "artiste": "Ivan Aïvazovski",
+        "oeuvre": "View of Tiflis"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/georges-braque/the-wash-stand-1942",
+        "hash": "7870185efefce4e4",
+        "artiste": "Georges Braque",
+        "oeuvre": "The wash stand"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/grant-wood/approaching-storm-1940",
+        "hash": "ffe3c78f89c1c3ff",
+        "artiste": "Grant Wood",
+        "oeuvre": "Approaching Storm"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henri-matisse/laurette-in-a-white-turban",
+        "hash": "1c2a2a62fbfbf8f0",
+        "artiste": "Henri Matisse",
+        "oeuvre": "Laurette in a White Turban"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/luc-olivier-merson/mademoiselle-de-clermont-et-le-comte-de-melun-au-pavillon-de-sylvie-pres-a-chantilly-1895-ce-1895",
+        "hash": "071f3f0f13383e3e",
+        "artiste": "Luc-Olivier Merson",
+        "oeuvre": "Miss Clermont and Count Melun at pavilion near Sylvie"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edouard-debat-ponsan/paysannerie",
+        "hash": "fff8f8e220200033",
+        "artiste": "Édouard Debat-Ponsan",
+        "oeuvre": "Peasants scene"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/toyen/a-girl-with-the-crucifix",
+        "hash": "93838f9f9fbf3fbf",
+        "artiste": "Toyen",
+        "oeuvre": "A Girl with the Crucifix"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/briton-riviere/lady-roundway-of-devizes-wiltshire-1915",
+        "hash": "0101617061e0f0f0",
+        "artiste": "Briton Rivière",
+        "oeuvre": "Lady Roundway of Devizes, Wiltshire"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/arkhip-kouindji/winter-thaw",
+        "hash": "f36303f3f3f3f1fb",
+        "artiste": "Arkhip Kouïndji",
+        "oeuvre": "Winter. Thaw"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/sebastien-bourdon/the-fall-of-simon-magus-1657",
+        "hash": "00fc3e202f4f9c33",
+        "artiste": "Sébastien Bourdon",
+        "oeuvre": "The Fall of Simon Magus"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-reed/gij-2004",
+        "hash": "0000000046efffff",
+        "artiste": "Paul Reed",
+        "oeuvre": "GIJ"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ferdinand-hodler/the-chestnut-trees-1889",
+        "hash": "efc7c77f800680c6",
+        "artiste": "Ferdinand Hodler",
+        "oeuvre": "The chestnut trees"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/otto-dix/the-art-dealer-alfred-flechtheim",
+        "hash": "033038787800e2ff",
+        "artiste": "Otto Dix",
+        "oeuvre": "The Art Dealer Alfred Flechtheim"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/irma-stern/portrait-of-a-pondo-woman-1929",
+        "hash": "3e7e40000066ffff",
+        "artiste": "Irma Stern",
+        "oeuvre": "Portrait of a Pondo Woman"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/kasimir-malevitch/costume-for-victory-over-the-sun-coward-1913",
+        "hash": "e7e7c3c3c7c7cfd3",
+        "artiste": "Kasimir Malevitch",
+        "oeuvre": "Costume for Victory over the Sun: Coward"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alfred-kubin/caliban-from-the-portfolio-visions-of-shakespeare-shakespeare-visionen-1918",
+        "hash": "ffffcfc7c1c383ff",
+        "artiste": "Alfred Kubin",
+        "oeuvre": "Caliban from the portfolio Visions of Shakespeare (Shakespeare Visionen)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/frank-johnston/the-dark-woods-interior-1921",
+        "hash": "fe64000004f7f7ff",
+        "artiste": "Frank Johnston",
+        "oeuvre": "The Dark Woods Interior"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/modest-cuixart/terra-de-bassora-1991",
+        "hash": "c3f1e381814c1cdc",
+        "artiste": "Modest Cuixart",
+        "oeuvre": "Terra de Bassora"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-baptiste-camille-corot/italian-monk-reading",
+        "hash": "efcf8f8d0d0c00a6",
+        "artiste": "Jean-Baptiste Camille Corot",
+        "oeuvre": "Italian Monk Reading"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/fred-williams/dight-s-falls-1974",
+        "hash": "ffff000006040000",
+        "artiste": "Fred Williams",
+        "oeuvre": "Dight's Falls"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maurits-cornelis-escher/frog",
+        "hash": "9d01a1f0e0c181ff",
+        "artiste": "Maurits Cornelis Escher",
+        "oeuvre": "Frog"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gerhard-richter/ema-1992",
+        "hash": "c3df1f1f1f0f0800",
+        "artiste": "Gerhard Richter",
+        "oeuvre": "Ema"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/anish-kapoor/sky-mirror-2001",
+        "hash": "fffffcf8701c0c08",
+        "artiste": "Anish Kapoor",
+        "oeuvre": "Sky Mirror"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-georges-vibert/why-he-does-not-come",
+        "hash": "68410f04070f0c7f",
+        "artiste": "Jean-Georges Vibert",
+        "oeuvre": "Why comes he not?"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/aubrey-beardsley/the-abbe-fanfreluche",
+        "hash": "a1a1d999a5ad8583",
+        "artiste": "Aubrey Beardsley",
+        "oeuvre": "The Abbe Fanfreluche"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/norval-morrisseau/looking-to-spring",
+        "hash": "ffc0e0f1e1e181a1",
+        "artiste": "Norval Morrisseau",
+        "oeuvre": "Looking To Spring"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ike-no-taiga/a-shunga",
+        "hash": "7f9f0f0c1c1f1f3f",
+        "artiste": "Ike no Taiga",
+        "oeuvre": "A Shunga"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/qi-baishi/not_detected_239464",
+        "hash": "ffbf3e088187fffe",
+        "artiste": "Qi Baishi",
+        "oeuvre": "Long Melons"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/bob-law/nothing-to-be-afraid-of-iv-15-8-69-1969",
+        "hash": "00c0c3fbffffff00",
+        "artiste": "Bob Law",
+        "oeuvre": "Nothing to be Afraid Of IV 15.8.69"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-hey/portrait-presume-de-madeleine-de-bourgogne-dame-de-laage-presentee-par-sainte-madeleine-1490",
+        "hash": "06272e3e361e0800",
+        "artiste": "Jean Hey",
+        "oeuvre": "Portrait présumé de Madeleine de Bourgogne, dame de Laage présentée par sainte Madeleine"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/eduardo-nery/desmaterializa-o-iii-1991",
+        "hash": "3c3e7effff7f1c00",
+        "artiste": "Eduardo Nery",
+        "oeuvre": "Desmaterialização III"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/george-frederic-watts/ophelia",
+        "hash": "0038f8f8f0c10000",
+        "artiste": "George Frederic Watts",
+        "oeuvre": "Ophelia"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/le-guerchin/magdalen-and-two-angels-1622",
+        "hash": "8018085fdf030303",
+        "artiste": "Le Guerchin",
+        "oeuvre": "Magdalen and Two Angels"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ivan-generalic/husovtsy-in-the-snow-1930",
+        "hash": "ffbfbfbd08023f18",
+        "artiste": "Ivan Generalić",
+        "oeuvre": "Husovtsy in the snow"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/m-h-maxy/peasant-weaving-at-war-1930",
+        "hash": "b0fcf2f6e2e30100",
+        "artiste": "M. H. Maxy",
+        "oeuvre": "Peasant weaving at war"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/banksy/stop-and-search",
+        "hash": "df9707071f1f1f1c",
+        "artiste": "Banksy",
+        "oeuvre": "Stop and Search"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nicolas-roerich/thought-1946",
+        "hash": "77f8fcfcfcc00000",
+        "artiste": "Nicolas Roerich",
+        "oeuvre": "Thought"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/hans-memling/scenes-de-la-passion-du-christ-1471",
+        "hash": "ff7e3e1f1e1f0400",
+        "artiste": "Hans Memling",
+        "oeuvre": "Scènes de la Passion du Christ"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/leon-bakst/la-legende-de-joseph-potiphar-1914",
+        "hash": "c7e7e78381c38307",
+        "artiste": "Léon Bakst",
+        "oeuvre": "La legende de Joseph Potiphar"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/pierre-bonnard/the-red-checkered-tablecloth",
+        "hash": "f9f9910036878300",
+        "artiste": "Pierre Bonnard",
+        "oeuvre": "The Red Checkered Tablecloth"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/domingos-sequeira/fam-lia-barros",
+        "hash": "0091d3c3830b0c1c",
+        "artiste": "Domingos Sequeira",
+        "oeuvre": "Família Barros"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/william-blake/the-angel-of-revelation-1805",
+        "hash": "7fff7f7f1e000000",
+        "artiste": "William Blake",
+        "oeuvre": "The Angel of Revelation"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/kazuo-shiraga/koushin-san-1980-1",
+        "hash": "00087410087e7eff",
+        "artiste": "Kazuo Shiraga",
+        "oeuvre": "Koushin-san"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/samuel-bak/targets-revisited-1996",
+        "hash": "7ffe1fc050310240",
+        "artiste": "Samuel Bak",
+        "oeuvre": "Targets Revisited"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/wojtek-siudmak/wandering-angel",
+        "hash": "ffffffffff000000",
+        "artiste": "Wojtek Siudmak",
+        "oeuvre": "Wandering Angel"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/aleksandr-borodin/architectural-phantasy-ii-2004",
+        "hash": "e3c1819b19191818",
+        "artiste": "Aleksandr Borodin",
+        "oeuvre": "Architectural Phantasy II"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vincent-van-gogh/three-cicadas-1889",
+        "hash": "ff0707870323ffff",
+        "artiste": "Vincent van Gogh",
+        "oeuvre": "Three Cicadas"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/luigi-guardigli/composition-abstraite",
+        "hash": "00001e9efe8c007f",
+        "artiste": "Luigi Guardigli",
+        "oeuvre": "Composition abstraite"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maria-primatchenko/seagull-in-it-s-nest-1961",
+        "hash": "fec686c7025c5c60",
+        "artiste": "Maria Primatchenko",
+        "oeuvre": "Seagull in it's nest"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henri-martin/valley-verde-in-crepuscule",
+        "hash": "ffff000000000000",
+        "artiste": "Henri Martin",
+        "oeuvre": "Valley Verde in Crepuscule"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mikhail-nesterov/annunciation",
+        "hash": "73331b71f9b9f970",
+        "artiste": "Mikhaïl Nesterov",
+        "oeuvre": "Annunciation"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theodore-chasseriau/alexis-de-tocqueville-1850",
+        "hash": "ff7f7f0303012000",
+        "artiste": "Théodore Chassériau",
+        "oeuvre": "Alexis de Tocqueville"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/cat-sleeping-in-a-corner-chat-dormant-dans-un-coin-1902",
+        "hash": "ff8d83818181ffff",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "Cat Sleeping In A Corner"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/claude-monet/houses-of-parlilament-fog-effect",
+        "hash": "fffbfbe000000038",
+        "artiste": "Claude Monet",
+        "oeuvre": "Houses of Parlilament, Fog Effect"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/the-red-star-l-etoile-rouge",
+        "hash": "0501070383dfffff",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "The red star - L'Etoile Rouge"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jay-defeo/untitled-jewelry-series-1977",
+        "hash": "ffefcfc78787ffff",
+        "artiste": "Jay DeFeo",
+        "oeuvre": "Untitled (Jewelry series)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/william-hart/the-last-gleam-1865",
+        "hash": "ffffff7e18000000",
+        "artiste": "William Hart",
+        "oeuvre": "The Last Gleam"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/george-harvey/portrait-of-a-lady-1",
+        "hash": "ffffc1c1818307ff",
+        "artiste": "George Harvey",
+        "oeuvre": "Portrait of a Lady"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/george-mavroides/portrait-of-nina",
+        "hash": "eeddf1b800020707",
+        "artiste": "George Mavroides",
+        "oeuvre": "Portrait of Nina"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jamie-wyeth/wolf-dog-1976",
+        "hash": "3f00181810103f7f",
+        "artiste": "Jamie Wyeth",
+        "oeuvre": "Wolf Dog"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maurice-prendergast/house-with-flag-in-the-cove",
+        "hash": "ffff002501800000",
+        "artiste": "Maurice Prendergast",
+        "oeuvre": "House with Flag in the Cove"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/maison-de-la-poste-1907",
+        "hash": "fff1c7fce0808101",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Maison de la Poste"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/andy-warhol/coca-cola",
+        "hash": "ff8981818383ffff",
+        "artiste": "Andy Warhol",
+        "oeuvre": "3 Coke Bottles"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/nini-lopez-1876",
+        "hash": "07071f1f1f3f1b21",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Nini Lopez"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/yoshitoshi/lin-chong",
+        "hash": "8fffffff13a100e9",
+        "artiste": "Yoshitoshi",
+        "oeuvre": "Lin Chong"
+>>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
     },
     {
         "url_page": "https://www.wikiart.org/fr/hokusai/not_detected_223505",
@@ -12618,6 +13036,7 @@
         "oeuvre": "The Adonis plant"
     },
     {
+<<<<<<< HEAD
         "url_page": "https://www.wikiart.org/fr/arshile-gorky/portrait-of-akabi",
         "hash": "00706d3f3f1e1727",
         "artiste": "Arshile Gorky",
@@ -13696,6 +14115,1200 @@
         "hash": "183b2e1e1e3e04ff",
         "artiste": "Albrecht Dürer",
         "oeuvre": "The Four Apostles, left panel - St. John and St Peter"
+=======
+        "url_page": "https://www.wikiart.org/fr/herman-de-vries/v74-63s-1980",
+        "hash": "ffffff2f05000101",
+        "artiste": "Herman de vries",
+        "oeuvre": "V74-63S"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gustave-dore/the-burial-of-sarah-1866-1",
+        "hash": "00868e0e3e2e3c3c",
+        "artiste": "Gustave Doré",
+        "oeuvre": "The Burial of Sarah"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/kees-van-dongen/woman-with-cherries-on-her-hat-1905",
+        "hash": "c3c381c939fdfefe",
+        "artiste": "Kees van Dongen",
+        "oeuvre": "Woman with Cherries on Her Hat"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/frederick-sommer/coyotes-1945",
+        "hash": "8e9cf7cf04181c37",
+        "artiste": "Frederick Sommer",
+        "oeuvre": "Coyotes"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/stefan-popescu/blue-landscape-1913",
+        "hash": "00110363e36b6969",
+        "artiste": "Ștefan Popescu",
+        "oeuvre": "Blue Landscape"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-trumbull/the-death-of-general-montgomery-in-the-attack-on-quebec-1786",
+        "hash": "00f0f0e818383c07",
+        "artiste": "John Trumbull",
+        "oeuvre": "The Death of General Montgomery in the Attack on Quebec"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/antonello-de-messine/le-christ-benissant-1465",
+        "hash": "001838183850fdff",
+        "artiste": "Antonello de Messine",
+        "oeuvre": "Le Christ bénissant"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/yannis-tsarouchis/little-beach-1962",
+        "hash": "fffffff8f8000000",
+        "artiste": "Yannis Tsarouchis",
+        "oeuvre": "Little beach"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nikolai-bogdanov-belski/portrait-of-a-peasant",
+        "hash": "ffffd39319200000",
+        "artiste": "Nikolaï Bogdanov-Belski",
+        "oeuvre": "Portrait of a Peasant"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jules-lefranc/links",
+        "hash": "ffff3f0000200000",
+        "artiste": "Jules Lefranc",
+        "oeuvre": "Links"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/carl-ludwig-johann-christineck/sergey-mordvinov-1773",
+        "hash": "1f1f0707030b0109",
+        "artiste": "Carl-Ludwig Johann Christineck",
+        "oeuvre": "Sergey Mordvinov"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/joyce-kozloff/bodies-of-water-cities-of-china-1997",
+        "hash": "0602f3ffadcce464",
+        "artiste": "Joyce Kozloff",
+        "oeuvre": "Bodies of Water- Cities of China"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/renato-guttuso/santa-panagia-sicily-1956",
+        "hash": "0060367fdfd3b9f8",
+        "artiste": "Renato Guttuso",
+        "oeuvre": "Santa Panagia (Sicily)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/hans-heysen/on-the-edge-of-the-bush",
+        "hash": "8008fafbff7b1909",
+        "artiste": "Hans Heysen",
+        "oeuvre": "On The Edge Of The Bush"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alfred-wallis/three-grey-sailed-ships",
+        "hash": "812183c789f1e3ff",
+        "artiste": "Alfred Wallis",
+        "oeuvre": "Three Grey-Sailed Ships"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/tsugouharu-foujita/untitled-1",
+        "hash": "fffff3e101818187",
+        "artiste": "Tsugouharu Foujita",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/bartolome-esteban-murillo/promenade-st-joseph-and-the-infant-jesus",
+        "hash": "bd9fdf93a321018d",
+        "artiste": "Bartolomé Esteban Murillo",
+        "oeuvre": "Promenade St. Joseph and The Infant Jesus"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gene-davis/passion-flower-1968",
+        "hash": "70f0f0f0f0f0f030",
+        "artiste": "Gene Davis",
+        "oeuvre": "Passion Flower"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/odilon-redon/a-figure",
+        "hash": "9f9f87b78787cf9f",
+        "artiste": "Odilon Redon",
+        "oeuvre": "A Figure"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/robert-henri/portrait-of-a-young-girl",
+        "hash": "203c5c5810000042",
+        "artiste": "Robert Henri",
+        "oeuvre": "Portrait of a Young Girl"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/collection-nouvelle-de-musique-etrangere-moderne-1899",
+        "hash": "00406507c7c7ffff",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "Collection Nouvelle de Musique Etrangere Moderne"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edward-krasinski/intervention-27-1975",
+        "hash": "3f7f67e700e6fefc",
+        "artiste": "Edward Krasinski",
+        "oeuvre": "Intervention 27"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/felix-vallotton/portrait-of-matilde-serao-1891",
+        "hash": "f10101c1d9f9efff",
+        "artiste": "Félix Vallotton",
+        "oeuvre": "Portrait of Matilde Serao"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/verena-loewensberg/untitled-1948",
+        "hash": "002efe74666e3e0c",
+        "artiste": "Verena Loewensberg",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/grace-cossington-smith/girl-seated-wearing-hat-1908",
+        "hash": "fef8f8f8f1e1237f",
+        "artiste": "Grace Cossington Smith",
+        "oeuvre": "Girl seated, wearing hat"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henri-edmond-cross/lavender",
+        "hash": "fffe0081010b73df",
+        "artiste": "Henri-Edmond Cross",
+        "oeuvre": "Lavender"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/charles-turner/john-fitzgibbon-1st-earl-of-clare-1802",
+        "hash": "010898980000ffff",
+        "artiste": "Charles Turner",
+        "oeuvre": "John Fitzgibbon, 1st Earl of Clare"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/thomas-hart-benton/july-hay",
+        "hash": "c07c38fcfc38d800",
+        "artiste": "Thomas Hart Benton",
+        "oeuvre": "July Hay"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-du-toit/transparency-2003",
+        "hash": "ff8189898181efff",
+        "artiste": "Paul du Toit",
+        "oeuvre": "Transparency"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/aubrey-beardsley/not_detected_245638",
+        "hash": "13181c0e5c545654",
+        "artiste": "Aubrey Beardsley",
+        "oeuvre": "Hermaphrodite Among Roses"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/giambattista-tiepolo/the-glory-of-st-dominic-1739",
+        "hash": "3c7e9f3f7fec3d00",
+        "artiste": "Giambattista Tiepolo",
+        "oeuvre": "The Glory of St Dominic"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ralston-crawford/nacelles-under-construction-1946",
+        "hash": "40871f1e1f1f0e40",
+        "artiste": "Ralston Crawford",
+        "oeuvre": "Nacelles Under Construction"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vassili-perov/arrival-of-a-new-governess-in-a-merchant-house-1866",
+        "hash": "fb7b7973430000de",
+        "artiste": "Vassili Perov",
+        "oeuvre": "Arrival of a New Governess in a Merchant House"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/sanyu/small-fish-1962",
+        "hash": "0000003fffff3f18",
+        "artiste": "Sanyu",
+        "oeuvre": "Small Fish"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/frank-eugene/master-frank-jefferson-1910",
+        "hash": "fcfcfc181800191b",
+        "artiste": "Frank Eugene",
+        "oeuvre": "Master Frank Jefferson"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alfred-sisley/the-regattas-moseley-1874",
+        "hash": "0097878f0800feef",
+        "artiste": "Alfred Sisley",
+        "oeuvre": "The regattas Moseley"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edouard-cortes/boulevard-de-la-madeleine-7",
+        "hash": "3f3e1c1000001f9f",
+        "artiste": "Édouard Cortès",
+        "oeuvre": "Boulevard de la Madeleine"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/julio-galan/my-secret-friends-1992",
+        "hash": "f8f8e0e0e1f1f1f1",
+        "artiste": "Julio Galán",
+        "oeuvre": "My Secret Friends"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maqbool-fida-husain/untitled-1970",
+        "hash": "00066c78732f2f06",
+        "artiste": "Maqbool Fida Husain",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/august-macke/portrait-with-apples-portrait-of-the-artist-s-wife",
+        "hash": "0f173f6fe5e57f07",
+        "artiste": "August Macke",
+        "oeuvre": "Portrait with apples (Portrait of the Artist's Wife)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nicolas-roerich/vernicle-1914",
+        "hash": "18305adbdbc3c3fc",
+        "artiste": "Nicolas Roerich",
+        "oeuvre": "Vernicle"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jan-steen/dancing-couple-detail-1663-8",
+        "hash": "0900888f00012f67",
+        "artiste": "Jan Steen",
+        "oeuvre": "Dancing couple(detail)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/yaacov-agam/fleeting-image-1965",
+        "hash": "ffffc1818181ffff",
+        "artiste": "Yaacov Agam",
+        "oeuvre": "Fleeting Image"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/boris-koustodiev/venus-1920",
+        "hash": "e7c1dddb89b9e3e7",
+        "artiste": "Boris Koustodiev",
+        "oeuvre": "Venus"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/eugene-boudin/the-dunes-at-etaples-1890",
+        "hash": "cfdfffffff0000f8",
+        "artiste": "Eugène Boudin",
+        "oeuvre": "The Dunes at Etaples"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henri-martin/idylle",
+        "hash": "ffff3f0700000001",
+        "artiste": "Henri Martin",
+        "oeuvre": "Idylle"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/dilek-demirci/untitled-11",
+        "hash": "187878387c3c1800",
+        "artiste": "Dilek Demirci",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/james-webb/namur-belgium-1878",
+        "hash": "0f1f7f7f0f080800",
+        "artiste": "James Webb",
+        "oeuvre": "Namur, Belgium"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/giovanni-battista-piranesi/another-view-of-the-same-side-of-the-trophy",
+        "hash": "ff9fcfc7c7e7c3ff",
+        "artiste": "Giovanni Battista Piranesi",
+        "oeuvre": "Another view of the same side of the Trophy"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vincent-van-gogh/a-girl-raking-1881",
+        "hash": "fff788cf0060e10f",
+        "artiste": "Vincent van Gogh",
+        "oeuvre": "A Girl Raking"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/winslow-homer/palm-tree-nassau",
+        "hash": "fbf1f1fffff70000",
+        "artiste": "Winslow Homer",
+        "oeuvre": "Palm tree, Nassau"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/piotr-kontchalovski/pine-tree-1921",
+        "hash": "efdfcec70600030f",
+        "artiste": "Piotr Kontchalovski",
+        "oeuvre": "Pine tree"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/thomas-hill/san-diego-bay-from-point-loma-1907",
+        "hash": "ffff7f1f0f000020",
+        "artiste": "Thomas Hill",
+        "oeuvre": "San Diego Bay from Point Loma"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/charles-francois-daubigny/the-bog-in-the-sunset-1861",
+        "hash": "fffffffdf8000000",
+        "artiste": "Charles-François Daubigny",
+        "oeuvre": "The bog in the sunset"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/eugene-boudin/shore-at-low-tide-rainy-weather-near-trouville-1895",
+        "hash": "7c0e3e6e043f3f0f",
+        "artiste": "Eugène Boudin",
+        "oeuvre": "Shore at Low Tide, Rainy Weather, near Trouville"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henri-matisse/sculpture-and-persian-vase-1908",
+        "hash": "0f270520588fdb7b",
+        "artiste": "Henri Matisse",
+        "oeuvre": "Sculpture and Persian Vase"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/les-femmes-de-france-1895",
+        "hash": "1e634f8347dfff7e",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "Les Femmes de France"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/moise-kisling/sitting-nude-1923",
+        "hash": "0404606078783e06",
+        "artiste": "Moïse Kisling",
+        "oeuvre": "Sitting nude"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/stanley-spencer/the-boatbuilder-s-yard-1936",
+        "hash": "00003000ecfff3c3",
+        "artiste": "Stanley Spencer",
+        "oeuvre": "The Boatbuilder's Yard"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/andre-lanskoy/les-murs-dispara-trons-1961",
+        "hash": "3e5f3e3b5b7e7f40",
+        "artiste": "André Lanskoy",
+        "oeuvre": "Les murs disparaîtrons"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/julian-alden-weir/the-blue-gown",
+        "hash": "1e3300181e3b1d1d",
+        "artiste": "Julian Alden Weir",
+        "oeuvre": "The Blue Gown"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/kouzma-petrov-vodkine/the-girl-at-the-desk-1934",
+        "hash": "220c2ffefef6c0e0",
+        "artiste": "Kouzma Petrov-Vodkine",
+        "oeuvre": "The girl at the desk"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/young-woman-at-the-piano-1876",
+        "hash": "101434387878dc3c",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Young Woman at the Piano"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/betty-goodwin/so-certain-i-was-a-horse-1985",
+        "hash": "ff0005c1e1e1e0ff",
+        "artiste": "Betty Goodwin",
+        "oeuvre": "So Certain I Was a Horse"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gillian-ayres/maritsa",
+        "hash": "1a5b1b9cccc898d8",
+        "artiste": "Gillian Ayres",
+        "oeuvre": "Maritsa"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/el-greco/adoration-of-the-shepherds",
+        "hash": "fefc7490207c7100",
+        "artiste": "El Greco",
+        "oeuvre": "Adoration of the Shepherds"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/konstantin-vasilyev/above-the-bonfire",
+        "hash": "1b8b838383c1812d",
+        "artiste": "Konstantin Vasilyev",
+        "oeuvre": "Above the Bonfire"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/fernando-botero/ecce-homo",
+        "hash": "e7d7ffffefcb0200",
+        "artiste": "Fernando Botero",
+        "oeuvre": "Ecce Homo"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vladimir-dimitrov/unknown-title-23",
+        "hash": "f6e6e7c184708387",
+        "artiste": "Vladimir Dimitrov",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/otto-dix/self-portrait-1",
+        "hash": "0030b83c3cfc6e68",
+        "artiste": "Otto Dix",
+        "oeuvre": "Self-Portrait"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/sydney-laurence/mount-mckinley-1925",
+        "hash": "ffffff7810000000",
+        "artiste": "Sydney Laurence",
+        "oeuvre": "Mount McKinley"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-auguste-dominique-ingres/madame-johann-gotthard-reinhold-born-sophie-amalie-dorothea-wilhelmine-ritter-and-her-two",
+        "hash": "fff3f9e184020200",
+        "artiste": "Jean-Auguste-Dominique Ingres",
+        "oeuvre": "Madame Johann Gotthard Reinhold, born Sophie Amalie Dorothea Wilhelmine Ritter, and her two daughters, Susette and Marie"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/salvador-dali/the-tower",
+        "hash": "4060fb4d2dfdfdf9",
+        "artiste": "Salvador Dalí",
+        "oeuvre": "The Tower"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-constable/spring-clouds-study-1822",
+        "hash": "687af0f8fcfe9c08",
+        "artiste": "John Constable",
+        "oeuvre": "Spring clouds study"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/hans-hartung/18-1953",
+        "hash": "ff9781c1c1c1c3ff",
+        "artiste": "Hans Hartung",
+        "oeuvre": "#18"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maurits-cornelis-escher/not_detected_204687",
+        "hash": "ffffff00000000b9",
+        "artiste": "Maurits Cornelis Escher",
+        "oeuvre": "Old Lava From Mount Etna Near Bronte, Sicily"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nikolaos-gysis/peek-a-boo-1882",
+        "hash": "2ecefcfc7c200013",
+        "artiste": "Nikolaos Gysis",
+        "oeuvre": "Peek-a-boo"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/giovanni-boldini/portrait-of-a-lady-1889",
+        "hash": "fffffffb3130383c",
+        "artiste": "Giovanni Boldini",
+        "oeuvre": "Portrait of a Lady"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maria-primatchenko/old-woman-sitting-on-the-oven-and-spinning-1969-1",
+        "hash": "ffe0f0fed0f0005f",
+        "artiste": "Maria Primatchenko",
+        "oeuvre": "Old woman sitting on the oven and spinning"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henri-de-toulouse-lautrec/the-clown-cha-u-kao-1895",
+        "hash": "003effffc7c7c383",
+        "artiste": "Henri de Toulouse-Lautrec",
+        "oeuvre": "The Clown Cha U Kao"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/james-tissot/moses",
+        "hash": "062238181859e1e3",
+        "artiste": "James Tissot",
+        "oeuvre": "Moses"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/karl-bodmer/a-blackfoot-indian-on-horseback-plate-19-from-volume-1-of-travels-in-the-interior-of-north-1843",
+        "hash": "ffffe7c38381c1ff",
+        "artiste": "Karl Bodmer",
+        "oeuvre": "A Blackfoot Indian on Horseback, plate 19 from Volume 1 of 'Travels in the Interior of North America'"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alex-colville/woman-in-bathtub-1973",
+        "hash": "f1f1e1c7c180c3c1",
+        "artiste": "Alex Colville",
+        "oeuvre": "Woman in Bathtub"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/claude-monet/floating-ice-on-the-seine-02",
+        "hash": "ffffff1800181800",
+        "artiste": "Claude Monet",
+        "oeuvre": "Floating Ice on the Seine 02"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/burhan-dogancay/keys-to-the-sunnetci-1990",
+        "hash": "fd2124feafa1b1f9",
+        "artiste": "Burhan Doğançay",
+        "oeuvre": "Keys (to the Sunnetci)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/morris-graves/chalice-1941",
+        "hash": "00183c3838001000",
+        "artiste": "Morris Graves",
+        "oeuvre": "Chalice"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/howard-mehring/untitled-1962-1",
+        "hash": "f8ce8f97e971710e",
+        "artiste": "Howard Mehring",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/frank-stella/kufa-gate-1968",
+        "hash": "3c00060e4e6e7e00",
+        "artiste": "Frank Stella",
+        "oeuvre": "Kufa Gate"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/sunny-landscape",
+        "hash": "fdd93910000080f8",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Sunny Landscape"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mikhail-nesterov/home-arrest-1883",
+        "hash": "1fdecece78000006",
+        "artiste": "Mikhaïl Nesterov",
+        "oeuvre": "Home arrest"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/hans-memling/head-of-christ",
+        "hash": "00383c7c3c183c00",
+        "artiste": "Hans Memling",
+        "oeuvre": "Head of Christ"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/takis/magnetic-wall-1976",
+        "hash": "18ffff8303030303",
+        "artiste": "Takis",
+        "oeuvre": "Magnetic Wall"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/lilla-cabot-perry/autoportrait-1892",
+        "hash": "e7c3c1dfdfc30100",
+        "artiste": "Lilla Cabot Perry",
+        "oeuvre": "Autoportrait"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edgar-degas/three-dancers-behind-the-scenes",
+        "hash": "cc58300d091fbff7",
+        "artiste": "Edgar Degas",
+        "oeuvre": "Three Dancers behind the Scenes"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/joseph-mallord-william-turner/venedig",
+        "hash": "387c7c7f7e3e2000",
+        "artiste": "Joseph Mallord William Turner",
+        "oeuvre": "Venice"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ding-yi/appearance-of-crosses-2001",
+        "hash": "80a2808080808082",
+        "artiste": "Ding Yi",
+        "oeuvre": "Appearance of Crosses"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alfons-mucha/north-star-1902",
+        "hash": "5fbb07030021e1e7",
+        "artiste": "Alfons Mucha",
+        "oeuvre": "North Star"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-hoppner/miranda",
+        "hash": "3f07131b8f3e3e0b",
+        "artiste": "John Hoppner",
+        "oeuvre": "Miranda"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/antoine-watteau/arlecchino-emperor-in-the-moon-1708",
+        "hash": "1e3efe7c04004000",
+        "artiste": "Antoine Watteau",
+        "oeuvre": "Arlecchino Emperor in the Moon"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/corneliu-baba/dinner",
+        "hash": "0020607e7e713f3f",
+        "artiste": "Corneliu Baba",
+        "oeuvre": "Dinner"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/walter-battiss/birds-and-buck",
+        "hash": "01b8783c1c1c34ff",
+        "artiste": "Walter Battiss",
+        "oeuvre": "Birds and Buck"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paula-modersohn-becker/still-life-with-jug-1907",
+        "hash": "0c001cfcf4783e00",
+        "artiste": "Paula Modersohn-Becker",
+        "oeuvre": "Still life with jug"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/hue-cocotte",
+        "hash": "a1000c1e20bfe7e7",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "Hue Cocotte"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/felicien-rops/the-sacrifice-from-the-satanic-ones",
+        "hash": "ffffe7f508183c7e",
+        "artiste": "Félicien Rops",
+        "oeuvre": "The Sacrifice, from The Satanic Ones"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/koukryniksy/untitled-1943-19",
+        "hash": "ffffffc0809f98b8",
+        "artiste": "Koukryniksy",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henri-edmond-cross/the-viaduct",
+        "hash": "e707030409fff7ff",
+        "artiste": "Henri-Edmond Cross",
+        "oeuvre": "The Viaduct"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/conciliabule-1916",
+        "hash": "e7c7c383c3c3c3bf",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "Conciliabule"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theodor-kittelsen/hun-soper-hver-krok-1900",
+        "hash": "fcf0e0e00000cfef",
+        "artiste": "Theodor Kittelsen",
+        "oeuvre": "Hun Soper Hver Krok"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nicolas-maes/a-dutch-family-group-1650",
+        "hash": "e7810830340c0400",
+        "artiste": "Nicolas Maes",
+        "oeuvre": "A Dutch Family Group"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-baptiste-camille-corot/by-the-sea",
+        "hash": "7fffffffde000000",
+        "artiste": "Jean-Baptiste Camille Corot",
+        "oeuvre": "By the Sea"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/modest-cuixart/rit-1991",
+        "hash": "fbe3c5c1c1c0c0c0",
+        "artiste": "Modest Cuixart",
+        "oeuvre": "Rit"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/isaac-levitan/before-the-storm-1890",
+        "hash": "fcfefe7c7c7c0000",
+        "artiste": "Isaac Levitan",
+        "oeuvre": "Before the storm"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/amedeo-modigliani/standing-nude",
+        "hash": "e7c3c3c3c3c3e3c3",
+        "artiste": "Amedeo Modigliani",
+        "oeuvre": "Standing Nude"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/titien/portrait-of-cardinal-alessandro-farnese-1546",
+        "hash": "1818387878607c38",
+        "artiste": "Titien",
+        "oeuvre": "Portrait of Cardinal Alessandro Farnese"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/odilon-redon/orpheus",
+        "hash": "ffffe0c01c3000f0",
+        "artiste": "Odilon Redon",
+        "oeuvre": "Orpheus"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-cage/dereau-no-11-1982",
+        "hash": "f0e3e3dfcfc78181",
+        "artiste": "John Cage",
+        "oeuvre": "Dereau No. 11"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-cocteau/interieur-chapelle-saint-blaise-1959-3",
+        "hash": "f8f3ffffb7240040",
+        "artiste": "Jean Cocteau",
+        "oeuvre": "Interieur chapelle Saint Blaise"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alexandre-benois/letter-t-1904",
+        "hash": "ff9900990c0581ff",
+        "artiste": "Alexandre Benois",
+        "oeuvre": "Letter «T»"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/leon-spilliaert/the-crossing-1913",
+        "hash": "fff400c0efcf0703",
+        "artiste": "Léon Spilliaert",
+        "oeuvre": "The Crossing"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-delvaux/not_detected_243095",
+        "hash": "10e8fdf9dedd7960",
+        "artiste": "Paul Delvaux",
+        "oeuvre": "The Meeting"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/norman-bluhm/io-1973",
+        "hash": "19fffffdfbe1c1cb",
+        "artiste": "Norman Bluhm",
+        "oeuvre": "Io"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albert-bierstadt/beach-at-nassau",
+        "hash": "0707061f07031f3f",
+        "artiste": "Albert Bierstadt",
+        "oeuvre": "Beach at Nassau"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/hassel-smith/untitled-1959-1",
+        "hash": "fffff7a79f1f0e08",
+        "artiste": "Hassel Smith",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/claude-tousignant/titane-cadmium-1975",
+        "hash": "ff991908081999ff",
+        "artiste": "Claude Tousignant",
+        "oeuvre": "Titane cadmium"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nicolas-de-verdun/klosterneuburg-altar-1181-8",
+        "hash": "0060f8d8f9d99000",
+        "artiste": "Nicolas de Verdun",
+        "oeuvre": "Klosterneuburg Altar"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/francisco-de-zurbaran/the-mercy-of-fra-martin-de-vizcaya-1639",
+        "hash": "0030b6fe9e821a06",
+        "artiste": "Francisco de Zurbarán",
+        "oeuvre": "The mercy of Fra Martin de Vizcaya"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/roger-weik/number-380-2014",
+        "hash": "ffefac4e6f080808",
+        "artiste": "Roger Weik",
+        "oeuvre": "Number 380"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/samuel-mutzner/dansul-cu-cobra",
+        "hash": "183c3c5d101036ff",
+        "artiste": "Samuel Mützner",
+        "oeuvre": "Cobra Dance"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theodore-gericault/horses-going-to-a-fair",
+        "hash": "ffdf51a3388080fe",
+        "artiste": "Théodore Géricault",
+        "oeuvre": "Horses going to a fair"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ivan-kramskoi/laughter-hail-king-of-judah-1882",
+        "hash": "ffffff80000080c0",
+        "artiste": "Ivan Kramskoï",
+        "oeuvre": "Laughter (Hail, king of Judah)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/claude-monet/rain-in-belle-ile",
+        "hash": "ffffffff03000000",
+        "artiste": "Claude Monet",
+        "oeuvre": "Rain in Belle-Ile"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/philippe-maliavine/demonstration-of-a-newborn",
+        "hash": "c32f0f67e1e06c18",
+        "artiste": "Philippe Maliavine",
+        "oeuvre": "Demonstration of a newborn"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/viktor-vasnetsov/kochtchei-limmortel-1917",
+        "hash": "101190d09890277f",
+        "artiste": "Viktor Vasnetsov",
+        "oeuvre": "Kochtcheï l'Immortel"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theodor-kittelsen/bjoernen-og-reven",
+        "hash": "007e463e5e7e1e06",
+        "artiste": "Theodor Kittelsen",
+        "oeuvre": "Bjoernen Og Reven"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/federico-zandomeneghi/the-red-roof",
+        "hash": "ffffff022c786060",
+        "artiste": "Federico Zandomeneghi",
+        "oeuvre": "The Red Roof"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/philip-alexius-de-laszlo/portrait-of-a-lady-1920",
+        "hash": "2030383c3c860f79",
+        "artiste": "Philip Alexius de László",
+        "oeuvre": "Portrait of a Lady"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/cagnes-landscape-4",
+        "hash": "e72e1f1f34000101",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Cagnes Landscape"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/portrait-of-jean-renoir-child-with-a-hoop-1898",
+        "hash": "c09d9934bc1838c0",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Portrait of Jean Renoir (Child with a Hoop)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jimmy-ernst/lookscape-1952",
+        "hash": "c7c03080eb9bd8ff",
+        "artiste": "Jimmy Ernst",
+        "oeuvre": "Lookscape"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jose-clemente-orozco/zapata-1930",
+        "hash": "9e0e0c3c7800727e",
+        "artiste": "José Clemente Orozco",
+        "oeuvre": "Zapata"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-cage/mozart-mix-1991",
+        "hash": "fffffffd080e0000",
+        "artiste": "John Cage",
+        "oeuvre": "Mozart Mix"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-baptiste-camille-corot/monk-in-white-seated-reading",
+        "hash": "001018387878347e",
+        "artiste": "Jean-Baptiste Camille Corot",
+        "oeuvre": "Monk in White, Seated, Reading"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/cy-twombly/untitled-1956",
+        "hash": "808080f0f8fefcfc",
+        "artiste": "Cy Twombly",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alexey-venetsianov/full-scale-class",
+        "hash": "0008f8fcff7c0c08",
+        "artiste": "Alexey Venetsianov",
+        "oeuvre": "Full-scale Class"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nicolas-roerich/mist-before-dawn-1924",
+        "hash": "fffffff200000080",
+        "artiste": "Nicolas Roerich",
+        "oeuvre": "Mist Before Dawn"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/robert-goodnough/white-mass-1980",
+        "hash": "f0c0c2c2cedcfcd8",
+        "artiste": "Robert Goodnough",
+        "oeuvre": "White Mass"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/andy-warhol/self-portrait-camouflage-1986",
+        "hash": "0f0f3f2f3f2f1f0f",
+        "artiste": "Andy Warhol",
+        "oeuvre": "Self-Portrait (Camouflage)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/marianne-north/male-and-female-trees-of-the-coco-de-mer-in-praslin-1883",
+        "hash": "fce0c3ffeffc8000",
+        "artiste": "Marianne North",
+        "oeuvre": "Male and Female Trees of the Coco de Mer in Praslin"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/lazar-lissitzky/untitled",
+        "hash": "fffff0e183c1e1ff",
+        "artiste": "Lazar Lissitzky",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/heinrich-kuhn/self-portrait-1901",
+        "hash": "8f870787cfffffff",
+        "artiste": "Heinrich Kühn",
+        "oeuvre": "Self-portrait"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/karl-schrag/mexican-sky",
+        "hash": "8187f7c181818181",
+        "artiste": "Karl Schrag",
+        "oeuvre": "Mexican Sky"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/marc-chagall/moses-and-aaron-1979",
+        "hash": "840021163e3561ff",
+        "artiste": "Marc Chagall",
+        "oeuvre": "Moses and Aaron"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/lucas-cranach-lancien/nicholaus-gallus-a-lutheran-theologian-and-reformer",
+        "hash": "ffc3c3c3c3c54400",
+        "artiste": "Lucas Cranach l'Ancien",
+        "oeuvre": "Nicholaus Gallus, a Lutheran theologian and reformer"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-auguste-dominique-ingres/the-crucifixion",
+        "hash": "ffffd9d8e0400000",
+        "artiste": "Jean-Auguste-Dominique Ingres",
+        "oeuvre": "The Crucifixion"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jacob-jordaens/diana-and-actaeon",
+        "hash": "3f3e787070427a10",
+        "artiste": "Jacob Jordaens",
+        "oeuvre": "Diana and Actaeon"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/luca-giordano/xanthippe-1660",
+        "hash": "002030f8f8f0e0c0",
+        "artiste": "Luca Giordano",
+        "oeuvre": "Xanthippe"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vassili-verechtchaguine/samarkand-1870",
+        "hash": "78fff7e3273578e0",
+        "artiste": "Vassili Verechtchaguine",
+        "oeuvre": "Samarkand"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/constantin-korovine/russia-festival",
+        "hash": "9f870706060bbfff",
+        "artiste": "Constantin Korovine",
+        "oeuvre": "Russia. Festival"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vladimir-dimitrov/unknown-title-2",
+        "hash": "f7e7c7c7d74300c0",
+        "artiste": "Vladimir Dimitrov",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/boris-koustodiev/teatime-1913",
+        "hash": "0c3f070381e0e066",
+        "artiste": "Boris Koustodiev",
+        "oeuvre": "Teatime"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alfred-sisley/inondation-a-moret-1879",
+        "hash": "e007effffef00000",
+        "artiste": "Alfred Sisley",
+        "oeuvre": "Inondation à Moret"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/marc-chagall/david-killed-a-lion-that-threatened-his-flock-i-samuel-xvii-34-36",
+        "hash": "ffe1cdd9f0f80000",
+        "artiste": "Marc Chagall",
+        "oeuvre": "David killed a lion that threatened his flock (I Samuel, XVII, 34, 36)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/hans-memling/allegory-with-a-virgin-1480",
+        "hash": "ffe7e72000400000",
+        "artiste": "Hans Memling",
+        "oeuvre": "Allegory with a Virgin"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edouard-cortes/quai-de-montebello-notre-dame",
+        "hash": "ffff68080000c8ec",
+        "artiste": "Édouard Cortès",
+        "oeuvre": "Quai de Montebello, Notre Dame"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/utagawa-kuniyoshi/woman-samurai",
+        "hash": "3fffda0402830200",
+        "artiste": "Utagawa Kuniyoshi",
+        "oeuvre": "Woman Samurai"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vincent-van-gogh/the-langlois-bridge-at-arles-with-road-alongside-the-canal-1888",
+        "hash": "ffe980a09d8fc7e3",
+        "artiste": "Vincent van Gogh",
+        "oeuvre": "The Langlois Bridge at Arles with Road Alongside the Canal"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edouard-cortes/the-concorde-square-le-soir",
+        "hash": "3e3c3cbe8208167f",
+        "artiste": "Édouard Cortès",
+        "oeuvre": "The Concorde Square, Le Soir"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/dirk-bouts/virgin-and-child-1460",
+        "hash": "003c3c3c1c0efc78",
+        "artiste": "Dirk Bouts",
+        "oeuvre": "Virgin and Child"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ron-kitaj/marynka-smoking",
+        "hash": "ffc0c0f8888ec6fe",
+        "artiste": "Ron Kitaj",
+        "oeuvre": "Marynka Smoking"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/william-bouguereau/dante-et-virgile-1850",
+        "hash": "18c0787e7e7e0e00",
+        "artiste": "William Bouguereau",
+        "oeuvre": "Dante et Virgile"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albrecht-durer/portrait-of-a-young-man-1",
+        "hash": "1882b39f0836f7f3",
+        "artiste": "Albrecht Dürer",
+        "oeuvre": "Portrait of a Young Man"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/kasimir-malevitch/le-remouleur-1912",
+        "hash": "070f070f4fc64701",
+        "artiste": "Kasimir Malevitch",
+        "oeuvre": "Le Rémouleur"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/carlos-saenz-de-tejada/don-juan-illustration-1938-1",
+        "hash": "013f7f7f26384000",
+        "artiste": "Carlos Saenz de Tejada",
+        "oeuvre": "Don Juan. Illustration."
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/felicien-rops/sex-is-like-god",
+        "hash": "ff81818181c1c1ff",
+        "artiste": "Félicien Rops",
+        "oeuvre": "Sex is Like God"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/larry-zox/untitled-1964",
+        "hash": "000000f0fffffff0",
+        "artiste": "Larry Zox",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maxime-maufra/cliffs-and-sea-1886",
+        "hash": "f0f8f8f8c0f8f8fe",
+        "artiste": "Maxime Maufra",
+        "oeuvre": "Cliffs and Sea"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/frans-snyders/vegetable-still-life",
+        "hash": "37f3400018191979",
+        "artiste": "Frans Snyders",
+        "oeuvre": "Vegetable Still Life"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/girl-with-a-straw-hat",
+        "hash": "00081c181bfffffe",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Girl with a straw hat"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/audrey-flack/marilyn-vanitas-1977",
+        "hash": "000effff3f1f1600",
+        "artiste": "Audrey Flack",
+        "oeuvre": "Marilyn (Vanitas)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maurits-cornelis-escher/young-thrush",
+        "hash": "ffe1c00043ff00ff",
+        "artiste": "Maurits Cornelis Escher",
+        "oeuvre": "Young Thrush"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/claude-monet/the-pave-de-chailly-in-the-fontainbleau-forest",
+        "hash": "303030180808fcff",
+        "artiste": "Claude Monet",
+        "oeuvre": "The Pave de Chailly in the Fontainbleau Forest"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/roland-petersen/lagoon-picnic-1971",
+        "hash": "ffffff0001e00000",
+        "artiste": "Roland Petersen",
+        "oeuvre": "Lagoon Picnic"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/charles-cottet/au-pays-de-la-mer-douleur-1909",
+        "hash": "bdff3f04070f0010",
+        "artiste": "Charles Cottet",
+        "oeuvre": "Au pays de la mer. Douleur"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/rogier-van-der-weyden/lamentation-1441",
+        "hash": "7e7efa1a180c060d",
+        "artiste": "Rogier van der Weyden",
+        "oeuvre": "Lamentation"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/claude-monet/the-palazzo-ducale",
+        "hash": "ff7f7d00003c3c3c",
+        "artiste": "Claude Monet",
+        "oeuvre": "The Palazzo Ducale"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ding-yanyong/bird-on-bamboo-tree-1969",
+        "hash": "fd75ff0fe17017c7",
+        "artiste": "Ding Yanyong",
+        "oeuvre": "Bird on Bamboo Tree"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-cezanne/madame-cezanne-au-fauteuil-jaune-1881",
+        "hash": "03303070f0ef6f65",
+        "artiste": "Paul Cézanne",
+        "oeuvre": "Madame Cézanne au fauteuil jaune"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alexei-savrassov/evening-2",
+        "hash": "ffff0f0000eeef73",
+        "artiste": "Alexeï Savrassov",
+        "oeuvre": "Evening"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/wilhelm-kotarbinski/evening-peace",
+        "hash": "7e7e780206024e7e",
+        "artiste": "Wilhelm Kotarbinski",
+        "oeuvre": "Evening Peace"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jacques-villegle/place-du-18-juin-1940-1992",
+        "hash": "d37849001a00f7e7",
+        "artiste": "Jacques Villeglé",
+        "oeuvre": "Place du 18 juin 1940"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/luciano-bartolini/pagina-fiorentina-o-1981",
+        "hash": "fffbc181c3c3dfff",
+        "artiste": "Luciano Bartolini",
+        "oeuvre": "Pagina fiorentina O"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/richard-paul-lohse/gestufte-quadratreihe-um-ein-komplement-rzentrum-1972",
+        "hash": "8080ccccc0c0fdff",
+        "artiste": "Richard Paul Lohse",
+        "oeuvre": "Gestufte Quadratreihe um ein Komplementärzentrum"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edouard-cortes/les-halles",
+        "hash": "1f1f1f1f30013737",
+        "artiste": "Édouard Cortès",
+        "oeuvre": "Les Halles"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/pablo-picasso/a-bullfight-1934-1",
+        "hash": "0021c187c1c1f7f9",
+        "artiste": "Pablo Picasso",
+        "oeuvre": "A bullfight"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/joaquin-sorolla-y-bastida/view-of-plascencia-1917",
+        "hash": "fffdfcf6f60500e0",
+        "artiste": "Joaquín Sorolla y Bastida",
+        "oeuvre": "View of Plascencia"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vassili-sourikov/village-altapiece",
+        "hash": "404063667e7e06e7",
+        "artiste": "Vassili Sourikov",
+        "oeuvre": "Village Altarpiece"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maurice-utrillo/moulin-de-la-galette-on-montmartre",
+        "hash": "ffff798900e07e3f",
+        "artiste": "Maurice Utrillo",
+        "oeuvre": "Moulin de la Galette on Montmartre"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/charles-marion-russell/start-of-roundup-1898",
+        "hash": "ffffe3c103030f0f",
+        "artiste": "Charles Marion Russell",
+        "oeuvre": "Start of Roundup"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/pietro-longhi/the-hunters-drawing-numbers",
+        "hash": "0066befe7c1c0c00",
+        "artiste": "Pietro Longhi",
+        "oeuvre": "The Hunters Drawing Numbers"
+>>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
     },
     {
         "url_page": "https://www.wikiart.org/fr/leon-bakst/portrait-dalexandre-benois-1898",
@@ -13704,6 +15317,7 @@
         "oeuvre": "Portrait d'Alexandre Benois"
     },
     {
+<<<<<<< HEAD
         "url_page": "https://www.wikiart.org/fr/david-michael-hinnebusch/mist-beyond-2006",
         "hash": "fd81859e9fc7c3e7",
         "artiste": "David Michael Hinnebusch",
@@ -14834,10 +16448,861 @@
     {
         "url_page": "https://www.wikiart.org/fr/emmerico-nunes/unknown-title-1",
         "hash": "f7cfcfc3cf4d0100",
+=======
+        "url_page": "https://www.wikiart.org/fr/paul-serusier/mother-and-child-on-a-breton-landscape-1890",
+        "hash": "f7e36307e0008200",
+        "artiste": "Paul Sérusier",
+        "oeuvre": "Mother and Child on a Breton Landscape"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theodor-kittelsen/gullegget",
+        "hash": "fffff92000808286",
+        "artiste": "Theodor Kittelsen",
+        "oeuvre": "Gullegget"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/charles-jacque/chickens",
+        "hash": "8f0f042070009df7",
+        "artiste": "Charles Jacque",
+        "oeuvre": "Chickens"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edward-hopper/hotel-lobby",
+        "hash": "7870300000707f7f",
+        "artiste": "Edward Hopper",
+        "oeuvre": "Hotel Lobby"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/constantin-guys/the-chasseurs-d-afrique-during-the-crimean-war-of-1854",
+        "hash": "ff9f09e1a113121f",
+        "artiste": "Constantin Guys",
+        "oeuvre": "The Chasseurs d'Afrique during the Crimean War of 1854"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/freres-de-limbourg/david-and-nathan",
+        "hash": "f879f878f8d07bff",
+        "artiste": "Frères de Limbourg",
+        "oeuvre": "David and Nathan"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/camille-pissarro/meadow-at-bazincourt-1895",
+        "hash": "fefbfb8080800000",
+        "artiste": "Camille Pissarro",
+        "oeuvre": "Meadow at Bazincourt"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albrecht-durer/illustration-to-revelationes-sancte-birgitte-1500",
+        "hash": "32007afce05ff8f0",
+        "artiste": "Albrecht Dürer",
+        "oeuvre": "Illustration to Revelationes Sancte Birgitte"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/richard-mortensen/un-ronde-d-un-nuit-d-te-1961",
+        "hash": "e7e3e7e7187e4e00",
+        "artiste": "Richard Mortensen",
+        "oeuvre": "Un ronde d'un nuit d'éte"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/sailboats-1885",
+        "hash": "fffff8000080c37f",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Sailboats"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/odilon-redon/the-birth-of-venus-1",
+        "hash": "3d1c0f2777787c7c",
+        "artiste": "Odilon Redon",
+        "oeuvre": "The Birth of Venus"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/othon-friesz/the-pont-de-grenelle-paris-1901",
+        "hash": "ffff607c3f0f0000",
+        "artiste": "Othon Friesz",
+        "oeuvre": "The Pont de Grenelle, Paris"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/james-hamilton/in-thesalt-marshes-of-n-j-1872",
+        "hash": "7fffffffff000000",
+        "artiste": "James Hamilton",
+        "oeuvre": "In theSalt Marshes of N. J."
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/max-gubler/still-life-with-thistle-in-blue-vase-salt-pot-basket-of-apples-and-mask-1956",
+        "hash": "ffff9c99c9025d00",
+        "artiste": "Max Gubler",
+        "oeuvre": "Still life with thistle in blue vase, salt pot, basket of apples and mask"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-david/figure-2",
+        "hash": "e7c3c18181c3c1eb",
+        "artiste": "Jean David",
+        "oeuvre": "Figure"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-wunderlich/victoria-2008",
+        "hash": "ffebf9f3e3c3c3c3",
+        "artiste": "Paul Wunderlich",
+        "oeuvre": "Victoria"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theodor-kittelsen/er-reveenken-hjemme-i-kveld",
+        "hash": "810010888188f0ff",
+        "artiste": "Theodor Kittelsen",
+        "oeuvre": "Er reveenken hjemme i kveld"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/enrique-grau/hombre-con-maniqu-1971",
+        "hash": "c8dcf8fef6000000",
+        "artiste": "Enrique Grau",
+        "oeuvre": "Hombre con Maniquí"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ernst-wilhelm-nay/blue-flood-1960",
+        "hash": "d9a5056391d9b0f0",
+        "artiste": "Ernst Wilhelm Nay",
+        "oeuvre": "Blue Flood"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vincent-van-gogh/an-old-woman-of-arles-1888",
+        "hash": "e7c3ffbf8c0c0c00",
+        "artiste": "Vincent van Gogh",
+        "oeuvre": "An Old Woman of Arles"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/honore-daumier/m-coste-1857",
+        "hash": "ff0131b199f981ff",
+        "artiste": "Honoré Daumier",
+        "oeuvre": "M. Coste"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/damien-hirst/virgin-mother-1",
+        "hash": "ffff3f1700010003",
+        "artiste": "Damien Hirst",
+        "oeuvre": "Virgin Mother"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/morgan-russell/synchromy-in-blue-violet-1912",
+        "hash": "c0c00d7db8030733",
+        "artiste": "Morgan Russell",
+        "oeuvre": "Synchromy in Blue-Violet"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-cezanne/portrait-of-uncle-dominique-1866-1",
+        "hash": "8181bdfdffd93000",
+        "artiste": "Paul Cézanne",
+        "oeuvre": "Portrait of Uncle Dominique"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theodoros-stamos/infinity-field-torino-series-1-1986",
+        "hash": "243c1843474123ff",
+        "artiste": "Theodoros Stamos",
+        "oeuvre": "Infinity Field (Torino Series #1)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/robert-spencer/happy-family",
+        "hash": "1f8f383b0e1c073f",
+        "artiste": "Robert Spencer",
+        "oeuvre": "Happy Family"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/robert-julian-onderdonk/forest-stream-headwaters-of-the-guadalupe",
+        "hash": "7e7f667638181818",
+        "artiste": "Robert Julian Onderdonk",
+        "oeuvre": "Forest Stream (Headwaters of the Guadalupe)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/william-bouguereau/the-bird-ch-ri-1867",
+        "hash": "00181e1f1e0f0000",
+        "artiste": "William Bouguereau",
+        "oeuvre": "The bird"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nicolas-poussin/holy-family-with-angels-1630",
+        "hash": "c7810504080085c7",
+        "artiste": "Nicolas Poussin",
+        "oeuvre": "Holy Family with Angels"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/eduardo-viana/untitled",
+        "hash": "ff81cdc1818101ff",
+        "artiste": "Eduardo Viana",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nikolai-gay/death-of-virginia-study",
+        "hash": "ffbcfefc70306030",
+        "artiste": "Nikolaï Gay",
+        "oeuvre": "Death of Virginia, Study"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/odilon-redon/the-fisherwoman-1900",
+        "hash": "ff8c0000a4e0e0fc",
+        "artiste": "Odilon Redon",
+        "oeuvre": "The Fisherwoman"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/childe-hassam/the-cedar-lot-old-lyme",
+        "hash": "ffdf130202070303",
+        "artiste": "Childe Hassam",
+        "oeuvre": "The Cedar Lot, Old Lyme"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henry-villierme/downhill",
+        "hash": "ffe80000c0f8fffb",
+        "artiste": "Henry Villierme",
+        "oeuvre": "Downhill"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/george-stefanescu/nude-1975",
+        "hash": "02071f333039b0ff",
+        "artiste": "George Stefanescu",
+        "oeuvre": "Nude"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/polychronis-lembesis/the-girl-with-pigeons",
+        "hash": "e0d8fcfcb0e0c7ef",
+        "artiste": "Polychronis Lembesis",
+        "oeuvre": "The girl with pigeons"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mattia-preti/adoration-of-the-shepherds",
+        "hash": "031343c65e3e4130",
+        "artiste": "Mattia Preti",
+        "oeuvre": "Adoration of the Shepherds"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/marc-chagall/acrobatics-1963",
+        "hash": "e3c1805085c59fbf",
+        "artiste": "Marc Chagall",
+        "oeuvre": "Acrobatics"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/still-life-with-strawberries-2",
+        "hash": "f8cfc781010087ff",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Still life with Strawberries"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/william-shayer/landscape-with-cattle",
+        "hash": "fffff3f0c0041000",
+        "artiste": "William Shayer",
+        "oeuvre": "Landscape with Cattle"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/le-rencontre",
+        "hash": "ff006c4d88c9d8f9",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "Le Rencontre"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/childe-hassam/windmill-at-sundown-east-hampton",
+        "hash": "ffffffbf98000000",
+        "artiste": "Childe Hassam",
+        "oeuvre": "Windmill at Sundown, East Hampton"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/emil-nolde/sunrise-at-the-sea-1927",
+        "hash": "733e1e1d3f010116",
+        "artiste": "Emil Nolde",
+        "oeuvre": "Sunrise at the sea"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/bronzino/the-ailing-eleonora-da-toledo-1556",
+        "hash": "ffc38180008181e7",
+        "artiste": "Bronzino",
+        "oeuvre": "The Ailing Eleonora da Toledo"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vassili-sourikov/portrait-of-a-i-surikov",
+        "hash": "e7d3dbe7cf900000",
+        "artiste": "Vassili Sourikov",
+        "oeuvre": "Portrait of A. I. Surikov"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/james-turrell/the-light-inside-1999",
+        "hash": "c3c3e7ffffe7c381",
+        "artiste": "James Turrell",
+        "oeuvre": "The Light Inside"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jules-dupre/autumn-landscape-1850",
+        "hash": "ffff0f0783000000",
+        "artiste": "Jules Dupré",
+        "oeuvre": "Autumn Landscape"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/raphael/la-madone-au-baldaquin-1506",
+        "hash": "00a187d7f2b198f8",
+        "artiste": "Raphaël",
+        "oeuvre": "La Madone au baldaquin"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albert-anker/junge-frau-einen-brief-schreibend-1903",
+        "hash": "f7e7f3fff2340cf0",
+        "artiste": "Albert Anker",
+        "oeuvre": "Young woman writing a letter"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/adolf-dietrich/untitled",
+        "hash": "fffffd3000000000",
+        "artiste": "Adolf Dietrich",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/giuseppe-arcimboldo/le-juriste-1566",
+        "hash": "e3f3fbcc84880860",
+        "artiste": "Giuseppe Arcimboldo",
+        "oeuvre": "Le Juriste"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/kansuke-yamamoto/the-man-who-went-too-far-1956",
+        "hash": "0000000098fcffff",
+        "artiste": "Kansuke Yamamoto",
+        "oeuvre": "The Man Who Went Too Far"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/canaletto/the-grand-canal-and-the-church-of-the-salute-1730",
+        "hash": "fefefebe0c000000",
+        "artiste": "Canaletto",
+        "oeuvre": "The Grand Canal and the Church of the Salute"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jules-breton/les-corbeaux-soir-d-orage-1902",
+        "hash": "f8f83818ff000000",
+        "artiste": "Jules Breton",
+        "oeuvre": "Ravens, Stormy Evening"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jacoba-van-heemskerck/natuurmotieven-1920",
+        "hash": "ffcbfbfbe1010001",
+        "artiste": "Jacoba van Heemskerck",
+        "oeuvre": "Natuurmotieven"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/georges-seurat/sunday-at-port-en-bessin-1888",
+        "hash": "033f7fbf8f1f0f00",
+        "artiste": "Georges Seurat",
+        "oeuvre": "Sunday at Port-en-Bessin"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/pontormo/madonna-with-st-anne-st-sebastian-st-peter-st-benedict-and-st-filippus-1529",
+        "hash": "005afad8f0e0e0d8",
+        "artiste": "Pontormo",
+        "oeuvre": "Madonna with St. Anne, St. Sebastian, St. Peter, St. Benedict and St. Filippus"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ilia-repine/prometheus",
+        "hash": "fe5e06060602007e",
+        "artiste": "Ilia Répine",
+        "oeuvre": "Prometheus"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/enji-torei/enso-1",
+        "hash": "f3e1e1ededede1f3",
+        "artiste": "Enji Torei",
+        "oeuvre": "Enso"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-simeon-chardin/still-life-with-glass-flask-and-fruit",
+        "hash": "1e1f131016deec00",
+        "artiste": "Jean Siméon Chardin",
+        "oeuvre": "Still Life with Glass Flask and Fruit"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/le-pho/hibiscus-and-birds-1940",
+        "hash": "307a7979198b3708",
+        "artiste": "Le Pho",
+        "oeuvre": "Hibiscus and Birds"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maurits-cornelis-escher/not_detected_204751",
+        "hash": "f3993d67e69899cf",
+        "artiste": "Maurits Cornelis Escher",
+        "oeuvre": "Circular Fish"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gustave-dore/beatrice-virgil",
+        "hash": "a180000018fdffff",
+        "artiste": "Gustave Doré",
+        "oeuvre": "Beatrice & Virgil"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maria-helena-vieira-da-silva/danse",
+        "hash": "dfee188c1c084af4",
+        "artiste": "Maria Helena Vieira da Silva",
+        "oeuvre": "Danse"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ilia-repine/portrait-of-leo-tolstoy-1887",
+        "hash": "ffffff8301048080",
+        "artiste": "Ilia Répine",
+        "oeuvre": "Portrait of Leo Tolstoy"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albrecht-durer/allegory-of-eloquence",
+        "hash": "fffbfb713b36313e",
+        "artiste": "Albrecht Dürer",
+        "oeuvre": "Allegory of eloquence"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albert-marquet/girl-embroidering-seated-in-a-garden-1896",
+        "hash": "6f0d69e9fc780c0f",
+        "artiste": "Albert Marquet",
+        "oeuvre": "Girl Embroidering, Seated in a Garden"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alexandre-deineka/portrait-of-a-student-1916",
+        "hash": "ffe0c0c0f1f1ffff",
+        "artiste": "Alexandre Deïneka",
+        "oeuvre": "Portrait of a student"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jose-ferraz-de-almeida-junior/garcon-noir-1850",
+        "hash": "c3c3c3c34fffcefe",
+        "artiste": "José Ferraz de Almeida Júnior",
+        "oeuvre": "Garçon noir"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/franz-kline/accent-grave-1955",
+        "hash": "ffff00004e00ffff",
+        "artiste": "Franz Kline",
+        "oeuvre": "Accent Grave"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/panayiotis-tetsis/street-market-1982-1",
+        "hash": "c1441cf85c54960f",
+        "artiste": "Panayiotis Tetsis",
+        "oeuvre": "Street market"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/august-macke/reading-woman",
+        "hash": "fce4cceece8e0307",
+        "artiste": "August Macke",
+        "oeuvre": "Reading woman"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/berthe-morisot/by-the-water",
+        "hash": "010337b7273cdd8f",
+        "artiste": "Berthe Morisot",
+        "oeuvre": "By the Water"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/joan-ponc/untitled-1974",
+        "hash": "3cfffefed94000c0",
+        "artiste": "Joan Ponc",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gustave-moreau/saint-sebastian-and-his-executioners",
+        "hash": "081e3e7c7840c080",
+        "artiste": "Gustave Moreau",
+        "oeuvre": "Saint Sebastian and His Executioners"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/isaac-levitan/overgrown-pond-1887-1",
+        "hash": "63391900462e73d1",
+        "artiste": "Isaac Levitan",
+        "oeuvre": "Overgrown pond"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/childe-hassam/oregon-landscape",
+        "hash": "feffffffc3000000",
+        "artiste": "Childe Hassam",
+        "oeuvre": "Oregon Landscape"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/giovanni-boldini/portrait-of-mme-lina-cavalieri-1901",
+        "hash": "efe78fefeb8383e3",
+        "artiste": "Giovanni Boldini",
+        "oeuvre": "Portrait of Mme. Lina Cavalieri"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/samuel-palmer/early-morning-1825",
+        "hash": "ff819991818d8dff",
+        "artiste": "Samuel Palmer",
+        "oeuvre": "Early Morning"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albert-dubois-pillet/portrait-of-monsieur-pool-1887",
+        "hash": "fcfcfcfce4c20000",
+        "artiste": "Albert Dubois-Pillet",
+        "oeuvre": "Portrait of Monsieur Pool"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/raphael-kirchner/love-flowers-1903-4",
+        "hash": "f3e1e3e3e3c3e7e7",
+        "artiste": "Raphael Kirchner",
+        "oeuvre": "Love Flowers"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-cezanne/table-napkin-and-fruit",
+        "hash": "3210160f71f3f978",
+        "artiste": "Paul Cézanne",
+        "oeuvre": "Table, Napkin and Fruit"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/william-bradford/sunrise-cove",
+        "hash": "ffffff3f2f02a000",
+        "artiste": "William Bradford",
+        "oeuvre": "Sunrise Cove"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/martiros-sarian/land-1969",
+        "hash": "fefcec3c0c80070f",
+        "artiste": "Martiros Sarian",
+        "oeuvre": "Land"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/aubrey-beardsley/frontispiece-for-venus-and-tannhauser",
+        "hash": "0000db5a1838fdff",
+        "artiste": "Aubrey Beardsley",
+        "oeuvre": "Frontispiece for 'Venus and Tannhauser'"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theodor-kittelsen/spider",
+        "hash": "ff83838387cf9fff",
+        "artiste": "Theodor Kittelsen",
+        "oeuvre": "Spider"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/chronis-botsoglou/p-5533",
+        "hash": "a834347cfcfcf484",
+        "artiste": "Chronis Botsoglou",
+        "oeuvre": "Sunday Afternoon"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/umberto-boccioni/elasticity-1912",
+        "hash": "bb311000040f7f2f",
+        "artiste": "Umberto Boccioni",
+        "oeuvre": "Elasticity"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/kiyoshi-saito/siamese-buddha-1962",
+        "hash": "bf81a5b5998101ff",
+        "artiste": "Kiyoshi Saitō",
+        "oeuvre": "Siamese Buddha"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/anna-ostroumova-lebedeva/french-embankment-1922",
+        "hash": "ffcfcfefaf8381ff",
+        "artiste": "Anna Ostroumova-Lebedeva",
+        "oeuvre": "French embankment"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/marc-chagall/moses-is-saved-from-the-waters-of-nile-by-pharaoh-s-daughter-exodus-ii-5-6",
+        "hash": "00fefefefaf80000",
+        "artiste": "Marc Chagall",
+        "oeuvre": "Moses is saved from the waters of Nile by Pharaoh's daughter (Exodus II, 5 6)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/children-s-heads",
+        "hash": "86c2c0f37a070727",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Children`s Heads"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/fab-five-freddy/untitled-1986",
+        "hash": "c7c70100a1a7e7e3",
+        "artiste": "Fab Five Freddy",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/toyota-hokkei/tea-things",
+        "hash": "fffff7fbc8c2c0e9",
+        "artiste": "Toyota Hokkei",
+        "oeuvre": "Tea Things"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/pablo-picasso/composition-with-skull-1908",
+        "hash": "04868f99fdfcd0c0",
+        "artiste": "Pablo Picasso",
+        "oeuvre": "Composition with skull"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/julius-leblanc-stewart/rio-della-maddalena-1908",
+        "hash": "ffbefe2677800000",
+        "artiste": "Julius LeBlanc Stewart",
+        "oeuvre": "Rio della Maddalena"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-hoppner/portrait-of-dorothy-jordan-as-hypolita-c-1791",
+        "hash": "0c0f1b18787c7800",
+        "artiste": "John Hoppner",
+        "oeuvre": "Portrait of Dorothy Jordan as Hypolita"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vladimir-borovikovski/elisabeth-alexeievna-tsarina-of-russia-1814",
+        "hash": "c39110181c3c87ff",
+        "artiste": "Vladimir Borovikovski",
+        "oeuvre": "Elisabeth Alexeievna Tsarina of Russia"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/leon-bakst/leonid-massine",
+        "hash": "87838387c3fbfbff",
+        "artiste": "Léon Bakst",
+        "oeuvre": "Leonid Massine"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alexandre-iacovleff/conversation-in-capri-1936",
+        "hash": "bf8973712072f381",
+        "artiste": "Alexandre Iacovleff",
+        "oeuvre": "Conversation in Capri"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/claude-monet/the-artist-s-family-in-the-garden",
+        "hash": "000963ff3e7fff00",
+        "artiste": "Claude Monet",
+        "oeuvre": "The Artist's Family in the Garden"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edgar-degas/helene-rouart-mme-marin-1886",
+        "hash": "efffc08098b8a080",
+        "artiste": "Edgar Degas",
+        "oeuvre": "Helene Rouart (Mme. Marin)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/bernard-schultze/janus-kopf-1992",
+        "hash": "ffdf1f900163c387",
+        "artiste": "Bernard Schultze",
+        "oeuvre": "Janus-Kopf"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/basuki-abdullah/portrait-1970",
+        "hash": "ffe3f3f7c1800000",
+        "artiste": "Basuki Abdullah",
+        "oeuvre": "Portrait"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/vase-of-flowers",
+        "hash": "ffd3816981a3e1bd",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Vase of Flowers"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/william-merritt-chase/portrait-of-mrs-william-chase",
+        "hash": "00101919fffff703",
+        "artiste": "William Merritt Chase",
+        "oeuvre": "Portrait of Mrs. William Chase"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theodore-gericault/dead-cat",
+        "hash": "0000001c3f3f0f0f",
+        "artiste": "Théodore Géricault",
+        "oeuvre": "Dead Cat"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albrecht-durer/ornaments-for-three-spoons-stalks",
+        "hash": "ffe727270501f9ff",
+        "artiste": "Albrecht Dürer",
+        "oeuvre": "Ornaments for three spoons stalks"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/roger-fry/bridge-over-the-allier-1933",
+        "hash": "fcf0e080f0f8f0fc",
+        "artiste": "Roger Fry",
+        "oeuvre": "Bridge over the Allier"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/lovis-corinth/self-portrait-with-skeleton-1896",
+        "hash": "ffff3333b3010000",
+        "artiste": "Lovis Corinth",
+        "oeuvre": "Self-portrait with Skeleton"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gino-severini/dancers-at-monicos",
+        "hash": "ffea829280c040f7",
+        "artiste": "Gino Severini",
+        "oeuvre": "Dancers at Monicos"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/martiros-sarian/portrait-of-a-film-director-ruben-simonov-1939",
+        "hash": "efc7efffe4340400",
+        "artiste": "Martiros Sarian",
+        "oeuvre": "Portrait of a film director Ruben Simonov"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nicolas-roerich/temple-in-naggar-1929",
+        "hash": "fffffffff0000000",
+        "artiste": "Nicolas Roerich",
+        "oeuvre": "Temple in Naggar"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albrecht-durer/st-philip-1526",
+        "hash": "f737232121313030",
+        "artiste": "Albrecht Dürer",
+        "oeuvre": "St. Philip"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vassili-verechtchaguine/buddhist-temple-in-darjeeling-sikkim-1874",
+        "hash": "000002f7cfc73c3f",
+        "artiste": "Vassili Verechtchaguine",
+        "oeuvre": "Buddhist temple in Darjeeling. Sikkim"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/cesar-paternosto/confluence-11-1999",
+        "hash": "fefefefe7c7c0000",
+        "artiste": "Cesar Paternosto",
+        "oeuvre": "Confluence 11"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mikalojus-konstantinas-ciurlionis/fugue-1908",
+        "hash": "0079f3fffffe7000",
+        "artiste": "Mikalojus Konstantinas Čiurlionis",
+        "oeuvre": "Fugue"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jill-baroff/corrugated-floor-works",
+        "hash": "0007f7f7f7070000",
+        "artiste": "Jill Baroff",
+        "oeuvre": "Corrugated Floor Works"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/speedy-graphito/ecole-romain-rollan-les-lilas-france-2011",
+        "hash": "ffff7f0021110000",
+        "artiste": "Speedy Graphito",
+        "oeuvre": "Ecole Romain Rollan - Les Lilas, France"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nicolas-roerich/study-of-mountains-4",
+        "hash": "088cfd7fb45968ee",
+        "artiste": "Nicolas Roerich",
+        "oeuvre": "Study of mountains"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/felix-del-marle/le-group-vouloir-1925",
+        "hash": "efc39dbd92c4f001",
+        "artiste": "Félix Del Marle",
+        "oeuvre": "Le Group Vouloir"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/j-ai-voulu-fuir-1899",
+        "hash": "ff97898180a1f1ff",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "J'ai Voulu Fuir"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/antonio-calderara/lago-d-orta-1956",
+        "hash": "ff818191818101ff",
+        "artiste": "Antonio Calderara",
+        "oeuvre": "Lago d'Orta"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mark-rothko/no-19",
+        "hash": "00685b9999f77770",
+        "artiste": "Mark Rothko",
+        "oeuvre": "No. 19"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-cezanne/road-trees-and-lake",
+        "hash": "3878787c0e307018",
+        "artiste": "Paul Cézanne",
+        "oeuvre": "Road, Trees and Lake"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nicolas-roerich/issuance-of-head",
+        "hash": "ffe9f4d8f0808081",
+        "artiste": "Nicolas Roerich",
+        "oeuvre": "Issuance of head"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edward-burne-jones/letoile-de-bethlehem-1885",
+        "hash": "103f3f1e2c2f0b08",
+        "artiste": "Edward Burne-Jones",
+        "oeuvre": "L'Étoile de Bethlehem"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/giulio-turcato/impronte-d-artista",
+        "hash": "fffff3d3838fffff",
+        "artiste": "Giulio Turcato",
+        "oeuvre": "Impronte d'Artista"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/max-gubler/portrait-maria-gubler-1950",
+        "hash": "c399dcfcf8e0c3c3",
+        "artiste": "Max Gubler",
+        "oeuvre": "Portrait Maria Gubler"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ivan-aivazovski/island-of-ischia-1892",
+        "hash": "3f3fffff0f040c04",
+        "artiste": "Ivan Aïvazovski",
+        "oeuvre": "Island of Ischia"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/salvador-dali/the-knight-of-death",
+        "hash": "e080808080c0ffff",
+        "artiste": "Salvador Dalí",
+        "oeuvre": "The Knight of Death"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/shitao/pin-on-the-cliff-1707",
+        "hash": "fff3e1c0ef8380e0",
+        "artiste": "Shitao",
+        "oeuvre": "Pin on the Cliff"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maurits-cornelis-escher/les-eyzies-france",
+        "hash": "9f1f1d00ef8500ff",
+        "artiste": "Maurits Cornelis Escher",
+        "oeuvre": "Les Eyzies France"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/winston-churchill/long-gallery-at-sutton-place-near-guildford",
+        "hash": "fd750d0741400707",
+        "artiste": "Winston Churchill",
+        "oeuvre": "Long Gallery at Sutton Place, near Guildford"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/emil-nolde/mocking-of-christ-1909",
+        "hash": "80bd9efef0c0f0f0",
+        "artiste": "Emil Nolde",
+        "oeuvre": "Mocking of Christ"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/sue-coe/blow",
+        "hash": "f0f8f20060600000",
+        "artiste": "Sue Coe",
+        "oeuvre": "Blow"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vassili-verechtchaguine/lezgin-haji-murtuz-agha-from-dagestan-1864",
+        "hash": "c78383cbc301c0ff",
+        "artiste": "Vassili Verechtchaguine",
+        "oeuvre": "Lezgin Haji Murtuz-agha from Dagestan"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/george-romney/james-martin-1738-1810-mp-for-tewkesbury-1776-1780-1784-1790-1796-1802-1806",
+        "hash": "1038381e7e781000",
+        "artiste": "George Romney",
+        "oeuvre": "James Martin (1738–1810), MP for Tewkesbury (1776, 1780, 1784, 1790, 1796, 1802 & 1806)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-singer-sargent/bedouin-mother-1905",
+        "hash": "ff0000183c3f3f7f",
+        "artiste": "John Singer Sargent",
+        "oeuvre": "Bedouin Mother"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/serge-charchoune/washtable-1926",
+        "hash": "e6a4d69636b2b200",
+        "artiste": "Serge Charchoune",
+        "oeuvre": "Washtable"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/frederic-bazille/landscape-on-the-shore-of-lez",
+        "hash": "ff7f70687c006000",
+        "artiste": "Frédéric Bazille",
+        "oeuvre": "Landscape on the Shore of Lez"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/emmerico-nunes/untitled-3",
+        "hash": "7fa0c0d8988a9ef9",
+>>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
         "artiste": "Emmerico Nunes",
         "oeuvre": "Untitled"
     },
     {
+<<<<<<< HEAD
         "url_page": "https://www.wikiart.org/fr/phil-sims/green-portrait-9",
         "hash": "00ffffffff7f0000",
         "artiste": "Phil Sims",
@@ -15105,6 +17570,227 @@
         "url_page": "https://www.wikiart.org/fr/max-bill/untitled-1972",
         "hash": "81183c3c3c01ffff",
         "artiste": "Max Bill",
+=======
+        "url_page": "https://www.wikiart.org/fr/claude-gellee/port-au-lever-du-soleil-1637",
+        "hash": "fffefcbc3c100000",
+        "artiste": "Claude Gellée",
+        "oeuvre": "Port au lever du soleil"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jules-cheret/pippermint-get-fr-res-1900",
+        "hash": "ff83011000ccffff",
+        "artiste": "Jules Chéret",
+        "oeuvre": "Pippermint, Get Frères"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/adriaen-van-ostade/interior-of-a-tavern-with-violin-player",
+        "hash": "000d9f15680899ff",
+        "artiste": "Adriaen van Ostade",
+        "oeuvre": "Interior of a Tavern with Violin Player"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/fernando-botero/the-sisters",
+        "hash": "76727acccccc3e20",
+        "artiste": "Fernando Botero",
+        "oeuvre": "The Sisters"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henry-ossawa-tanner/sister-sarah-1882",
+        "hash": "00000010106e7f3f",
+        "artiste": "Henry Ossawa Tanner",
+        "oeuvre": "Sister Sarah"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gueorgui-narbout/illustration-for-the-book-how-mice-buried-the-cat-by-zhukovsky-1910-3",
+        "hash": "ff9c8081818181ff",
+        "artiste": "Gueorgui Narbout",
+        "oeuvre": "Illustration for the book 'How mice buried the cat' by Zhukovsky"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-bauer/trollandchild",
+        "hash": "e78f8d0b011107ef",
+        "artiste": "John Bauer",
+        "oeuvre": "Trollandchild"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albrecht-durer/burkard-von-speyer-1506",
+        "hash": "00103c7e3c303030",
+        "artiste": "Albrecht Dürer",
+        "oeuvre": "Burkard von Speyer"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/sandro-botticelli/lannonciation-du-cestello-1489",
+        "hash": "38383a2018584cfe",
+        "artiste": "Sandro Botticelli",
+        "oeuvre": "L'Annonciation du Cestello"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/beatrix-potter/simpkin-housekeeping-1902",
+        "hash": "ffffe7e3b0800085",
+        "artiste": "Beatrix Potter",
+        "oeuvre": "Simpkin Housekeeping"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gustav-klimt/cows-in-the-barn-1901",
+        "hash": "ffffc0c0e0400000",
+        "artiste": "Gustav Klimt",
+        "oeuvre": "Cows in the barn"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/constant-permeke/la-rousse-1944",
+        "hash": "4021717119183c22",
+        "artiste": "Constant Permeke",
+        "oeuvre": "La Rousse"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jose-pancetti/rua-em-s-o-jo-o-del-rey-1945",
+        "hash": "ffffc00080204000",
+        "artiste": "Jose Pancetti",
+        "oeuvre": "Rua em São João del Rey"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paula-modersohn-becker/crouching",
+        "hash": "9f0f9f8f8f8581ff",
+        "artiste": "Paula Modersohn-Becker",
+        "oeuvre": "Crouching"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/raoul-dufy/view-from-an-open-window",
+        "hash": "070f733096b2f070",
+        "artiste": "Raoul Dufy",
+        "oeuvre": "View From An Open Window"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/rene-portocarrero/cathedral-in-yellow-1961",
+        "hash": "9999818181818181",
+        "artiste": "Rene Portocarrero",
+        "oeuvre": "Cathedral in Yellow"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/michel-carrade/unknown-title-13",
+        "hash": "6f6f2f2f2f0f0704",
+        "artiste": "Michel Carrade",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maarten-van-heemskerck/great-pyramid-of-giza",
+        "hash": "fffbf3f1e000000e",
+        "artiste": "Maarten van Heemskerck",
+        "oeuvre": "Great Pyramid of Giza"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maurits-cornelis-escher/still-life-1917",
+        "hash": "efc3c7c7c7010087",
+        "artiste": "Maurits Cornelis Escher",
+        "oeuvre": "Still Life"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/eugene-leroy/green-nude-1978",
+        "hash": "9038f8fc1e1cec00",
+        "artiste": "Eugène Leroy",
+        "oeuvre": "Green nude"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-fouquet/the-arrival-of-charles-v-1337-80-in-paris-28th-may-1364",
+        "hash": "7ff8f81806000000",
+        "artiste": "Jean Fouquet",
+        "oeuvre": "The Arrival of Charles V (1337-80) in Paris, 28th May 1364"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/philip-alexius-de-laszlo/lady-frances-gresley-1924",
+        "hash": "0018183878282cc0",
+        "artiste": "Philip Alexius de László",
+        "oeuvre": "Lady Frances Gresley"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vincent-van-gogh/the-spire-of-the-church-of-our-lady-1885",
+        "hash": "ffefe7e7c3c3c3c3",
+        "artiste": "Vincent van Gogh",
+        "oeuvre": "The Spire of the Church of Our Lady"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/constantin-bogaievski/palm-trees-1908",
+        "hash": "18383cfefffff000",
+        "artiste": "Constantin Bogaïevski",
+        "oeuvre": "Palm trees"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/frida-kahlo/congress-of-peoples-for-peace-1952",
+        "hash": "1f47470f8f100100",
+        "artiste": "Frida Kahlo",
+        "oeuvre": "Congress of Peoples for Peace"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/saturnino-herran/el-rebozo-1916",
+        "hash": "e7f7f3c38b090004",
+        "artiste": "Saturnino Herran",
+        "oeuvre": "El rebozo"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mikhail-nesterov/the-korin-brothers-1930",
+        "hash": "ffffb90000180080",
+        "artiste": "Mikhaïl Nesterov",
+        "oeuvre": "The Korin Brothers"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/bernard-schultze/kleine-attacken-1997",
+        "hash": "fff1f138a0c1c1ff",
+        "artiste": "Bernard Schultze",
+        "oeuvre": "Kleine Attacken"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/el-greco/saint-martin-et-le-mendiant-1598",
+        "hash": "fffbc7c51f3b3800",
+        "artiste": "El Greco",
+        "oeuvre": "Saint Martin et le Mendiant"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/frans-hals/le-jeune-ramp-et-sa-belle-1623",
+        "hash": "81f1703c6e667868",
+        "artiste": "Frans Hals",
+        "oeuvre": "Le Jeune Ramp et sa belle"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/willard-metcalf/the-golden-screen",
+        "hash": "ffff3fbf3b100000",
+        "artiste": "Willard Metcalf",
+        "oeuvre": "The Golden Screen"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edmond-dulac/the-pearl-of-the-cloud-from-the-kingdom-of-the-pearl",
+        "hash": "890c2e3b7c5e8e80",
+        "artiste": "Edmond Dulac",
+        "oeuvre": "The Pearl of the Cloud, from The Kingdom of the Pearl"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gerard-david/a-rest-during-the-flight-to-egypt",
+        "hash": "f080d81afbc301ff",
+        "artiste": "Gérard David",
+        "oeuvre": "A Rest During the Flight to Egypt"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/enzo-cucchi/lo-lava-2007",
+        "hash": "f7c7c7cfcf9f1310",
+        "artiste": "Enzo Cucchi",
+        "oeuvre": "Lo-lava"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/odilon-redon/centaur-with-cello-1910",
+        "hash": "ff0f00301c1cdeff",
+        "artiste": "Odilon Redon",
+        "oeuvre": "Centaur with Cello"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jacques-herold/composition-1959",
+        "hash": "bf1333fbf0f08381",
+        "artiste": "Jacques Hérold",
+        "oeuvre": "Composition"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-paul-jerome/unknown-title-1",
+        "hash": "0003d3ef0ff3b8b8",
+        "artiste": "Jean-Paul Jérôme",
+>>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
         "oeuvre": "Untitled"
     },
     {
@@ -15114,6 +17800,7 @@
         "oeuvre": "Old-timers talk about some frays,  And they remember well those days!  With cause all Russia fashions lays  About Borodino!"
     },
     {
+<<<<<<< HEAD
         "url_page": "https://www.wikiart.org/fr/andrea-del-sarto/head-of-child",
         "hash": "ffc1990181c1fefc",
         "artiste": "Andrea del Sarto",
@@ -19192,6 +21879,474 @@
         "hash": "e1fcc1c1050d87e7",
         "artiste": "James Tissot",
         "oeuvre": "Jésus guérit un possédé muet"
+=======
+        "url_page": "https://www.wikiart.org/fr/franz-von-stuck/medusa-1892",
+        "hash": "0000983c3c189880",
+        "artiste": "Franz von Stuck",
+        "oeuvre": "Medusa"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/max-liebermann/beer-garden-in-munchen",
+        "hash": "04070e1c3f3f3e1f",
+        "artiste": "Max Liebermann",
+        "oeuvre": "Beer Garden in Munich"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ralph-rosenborg/american-landscape-garden-of-flowers-1979",
+        "hash": "4000643eff5ec0f0",
+        "artiste": "Ralph Rosenborg",
+        "oeuvre": "American Landscape: Garden of Flowers"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/claudio-bravo/vendredi-saint-1998",
+        "hash": "fefef6fe76202000",
+        "artiste": "Claudio Bravo",
+        "oeuvre": "Vendredi Saint"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/nicolas-roerich/landscape-1",
+        "hash": "fffffffc90000000",
+        "artiste": "Nicolas Roerich",
+        "oeuvre": "Landscape"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-bertholle/scene-mystique-1957",
+        "hash": "48597d05e9c34bdf",
+        "artiste": "Jean Bertholle",
+        "oeuvre": "Scene mystique"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/rik-wouters/self-portrait-with-black-bandage-1915",
+        "hash": "ff8181b9f8ec18ff",
+        "artiste": "Rik Wouters",
+        "oeuvre": "Self-portrait with Black Bandage"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alexander-shilov/igumen-zinoviy-1991",
+        "hash": "ffdfdcdd01000c00",
+        "artiste": "Alexander Shilov",
+        "oeuvre": "Igumen Zinoviy"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/konstantinos-parthenis/the-small-church-of-kefalonia-1925",
+        "hash": "0f0c06c7fff9007e",
+        "artiste": "Konstantinos Parthenis",
+        "oeuvre": "The Little Church of Cephalonia"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/guo-xi/clearing-autumn-skies-over-mountains-and-valleys-detail-1072-1",
+        "hash": "4f7d3bffa6940000",
+        "artiste": "Guo Xi",
+        "oeuvre": "Clearing Autumn Skies over Mountains and Valleys (detail)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/hans-von-aachen/virgin-and-child-1606",
+        "hash": "030393b8b8fc9ec0",
+        "artiste": "Hans von Aachen",
+        "oeuvre": "Virgin and Child"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/giovanni-battista-piranesi/ground-plan-of-the-circus-of-caracalla-in-today-capena-outside-the-porta-s-sebastian-in-the-two-1",
+        "hash": "3c3eb9fcfcb80060",
+        "artiste": "Giovanni Battista Piranesi",
+        "oeuvre": "Ground plan of the Circus of Caracalla in today Capena outside the Porta S. Sebastian, in the two boards meet together"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edwin-dickinson/imaginary-paris-studio-1916",
+        "hash": "fd7c00808883a3e7",
+        "artiste": "Edwin Dickinson",
+        "oeuvre": "Imaginary Paris Studio"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jacob-van-ruisdael/cascade-avec-le-chateau-de-sommet-de-la-montagne-et-chalet-1670",
+        "hash": "f7fb3c0000001fbf",
+        "artiste": "Jacob van Ruisdael",
+        "oeuvre": "Cascade avec le château de sommet de la montagne et chalet"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albert-marquet/sa-mere-1906",
+        "hash": "f0e0e4c086064b07",
+        "artiste": "Albert Marquet",
+        "oeuvre": "Sa mère"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-singer-sargent/mrs-gardner-in-white-1922",
+        "hash": "0008189cfdff7f7c",
+        "artiste": "John Singer Sargent",
+        "oeuvre": "Mrs Gardner in White"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mattis-teutsch/composition-1923",
+        "hash": "fceceeff3f070707",
+        "artiste": "Mattis Teutsch",
+        "oeuvre": "Composition"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/umberto-boccioni/study-for-sculpture-empty-and-full-abstracts-of-a-head-1912",
+        "hash": "ff834103f0c2ceee",
+        "artiste": "Umberto Boccioni",
+        "oeuvre": "Study for sculpture 'Empty and full abstracts of a head'"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/remedios-varo-uranga/aurora-1962",
+        "hash": "0060fcfde4e1e980",
+        "artiste": "Remedios Varo Uranga",
+        "oeuvre": "Aurora"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/childe-hassam/the-bather-1915",
+        "hash": "fff93f1eb8b83018",
+        "artiste": "Childe Hassam",
+        "oeuvre": "The Bather"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/marc-chagall/noah-lets-go-the-dove-through-the-window-of-the-ark-genesis-viii-6-9-1931",
+        "hash": "01217377730f8d87",
+        "artiste": "Marc Chagall",
+        "oeuvre": "Noah lets go the dove through the window of the Ark (Genesis VIII, 6 9)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/saturnino-herran/nuestros-dioses-antiguos-1916",
+        "hash": "318f9f0f8f85c504",
+        "artiste": "Saturnino Herran",
+        "oeuvre": "Nuestros dioses antiguos"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/aleksander-gierymski/begonie-1880",
+        "hash": "1e3c3d1c3131070b",
+        "artiste": "Aleksander Gierymski",
+        "oeuvre": "Begonie"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-william-godward/idle-moments-1895",
+        "hash": "03000018087fffff",
+        "artiste": "John William Godward",
+        "oeuvre": "Idle Moments"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/kiki-smith/virgin-mary-1992",
+        "hash": "ffe7c7c3e7e7e7c7",
+        "artiste": "Kiki Smith",
+        "oeuvre": "Virgin Mary"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/francisco-de-goya/the-shipwreck-1794",
+        "hash": "e0f0df9f0edfc831",
+        "artiste": "Francisco de Goya",
+        "oeuvre": "The Shipwreck"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gustave-dore/don-quixote-153",
+        "hash": "feffffff00000000",
+        "artiste": "Gustave Doré",
+        "oeuvre": "Don Quixote"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/louis-comfort-tiffany/windows-church-of-the-covenant-boston-4",
+        "hash": "18183c3c243c2c3c",
+        "artiste": "Louis Comfort Tiffany",
+        "oeuvre": "Windows - Church of the Covenant (Boston)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jacopo-bassano/bust-length-study-of-a-bearded-man-with-cap-in-three-quarter-view",
+        "hash": "f1eccc891b0f0f7f",
+        "artiste": "Jacopo Bassano",
+        "oeuvre": "Bust-Length Study of a Bearded Man with Cap in Three-Quarter View"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jacques-louis-david/minerva-1777",
+        "hash": "f7f3e3c383c3c3e0",
+        "artiste": "Jacques-Louis David",
+        "oeuvre": "Minerva"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/horace-pippin/self-portrait-1941",
+        "hash": "ffecc33f7f7c8000",
+        "artiste": "Horace Pippin",
+        "oeuvre": "Self-Portrait"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/t-c-steele/a-corner-in-the-old-kitchen-of-the-mittenheim-cloister-1883",
+        "hash": "1c8cce8d0f1f3000",
+        "artiste": "T. C. Steele",
+        "oeuvre": "A Corner in the Old Kitchen of the Mittenheim Cloister"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/michel-ange/study-for-the-porta-pia-a-gate-in-the-aurelian-walls-of-rome-1561",
+        "hash": "c00000dcfcfcdcd8",
+        "artiste": "Michel-Ange",
+        "oeuvre": "Study for the Porta Pia (a gate in the Aurelian Walls of Rome)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/emily-carr/indian-war-canoe-alert-bay-1912",
+        "hash": "87878bb303070f3f",
+        "artiste": "Emily Carr",
+        "oeuvre": "Indian War Canoe (Alert Bay)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/david-cox/the-pont-des-arts-with-the-louvre-and-tuileries-from-the-quai-conti-1838",
+        "hash": "ffff7f7f3e000000",
+        "artiste": "David Cox",
+        "oeuvre": "The Pont des Arts with the Louvre and Tuileries from the Quai Conti"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/thomas-hart-benton/still-life-with-fruit-and-vegetables",
+        "hash": "7331159fc7931101",
+        "artiste": "Thomas Hart Benton",
+        "oeuvre": "Still Life with Fruit and Vegetables"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/georges-seurat/a-house-between-trees-1883",
+        "hash": "fefe2c1070783c3f",
+        "artiste": "Georges Seurat",
+        "oeuvre": "A house between trees"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/guanxiu/the-16th-cudapanthaka-arhat",
+        "hash": "8038f8f8c4e87c89",
+        "artiste": "Guanxiu",
+        "oeuvre": "The 16th - Cudapanthaka Arhat"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/angelo-de-sousa/unknown-title-2",
+        "hash": "e0c0e0f8f8fcfcfe",
+        "artiste": "Angelo de Sousa",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/egon-schiele/the-daydreamer-gerti-schiele-1911",
+        "hash": "e3f1ebcfcfc18383",
+        "artiste": "Egon Schiele",
+        "oeuvre": "The Daydreamer (Gerti Schiele)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jeffrey-smart/keswick-siding-1945",
+        "hash": "0410189f7f70060f",
+        "artiste": "Jeffrey Smart",
+        "oeuvre": "Keswick Siding"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/takashi-murakami/jellyfish-eyes-black-4-2006",
+        "hash": "8387081ba70583bb",
+        "artiste": "Takashi Murakami",
+        "oeuvre": "Jellyfish Eyes: Black 4"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/konstantinos-parthenis/heracles-battle-with-the-amazons-1927",
+        "hash": "0a3f05cd539ff27c",
+        "artiste": "Konstantinos Parthenis",
+        "oeuvre": "Battle of Heracles and the Amazons"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edward-burne-jones/danae-and-the-brazen-tower-1888",
+        "hash": "ff0f2f66044f4000",
+        "artiste": "Edward Burne-Jones",
+        "oeuvre": "Danae and the Brazen Tower"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/titien/portrait-of-benedetto-varchi-1540",
+        "hash": "1f1f030100064141",
+        "artiste": "Titien",
+        "oeuvre": "Portrait of Benedetto Varchi"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mattia-preti/the-incredulity-of-saint-thomas-1660",
+        "hash": "000034ccdedbe8e8",
+        "artiste": "Mattia Preti",
+        "oeuvre": "The Incredulity of Saint Thomas"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/le-cri-de-paris-1905",
+        "hash": "0000d189878387ff",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "Le Cri de Paris"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albrecht-durer/entombment",
+        "hash": "fb9100d4d491f3f7",
+        "artiste": "Albrecht Dürer",
+        "oeuvre": "Entombment"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albrecht-durer/the-port-of-antwerp-during-scheldetor-1520",
+        "hash": "8ffffee080cf1f1e",
+        "artiste": "Albrecht Dürer",
+        "oeuvre": "The port of Antwerp during Scheldetor"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-baptiste-camille-corot/at-civita-castellana-wooded-rocks",
+        "hash": "2626030707070f79",
+        "artiste": "Jean-Baptiste Camille Corot",
+        "oeuvre": "At Civita Castellana, Wooded Rocks"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ivan-serpa/tinta-automotiva-sobre-madeira-1953",
+        "hash": "c7c3c381e7c381ff",
+        "artiste": "Ivan Serpa",
+        "oeuvre": "Tinta automotiva sobre madeira"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edward-krasinski/untitled-1978",
+        "hash": "ffffdf8700c0f3ff",
+        "artiste": "Edward Krasinski",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/dante-gabriel-rossetti/portrait-of-jane-morris",
+        "hash": "e181070f1f1fbd81",
+        "artiste": "Dante Gabriel Rossetti",
+        "oeuvre": "Portrait of Jane Morris"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/frederic-bazille/saint-saveur",
+        "hash": "fffffffee0000000",
+        "artiste": "Frédéric Bazille",
+        "oeuvre": "Saint-Saveur"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/yves-tanguy/wind-1927",
+        "hash": "ffb0800410cecef8",
+        "artiste": "Yves Tanguy",
+        "oeuvre": "Wind"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/childe-hassam/self-portrait",
+        "hash": "000406071f1f3f3f",
+        "artiste": "Childe Hassam",
+        "oeuvre": "Self-portrait"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/amedeo-modigliani/portrait-of-a-young-woman-1919",
+        "hash": "e07a7e78ff7b1900",
+        "artiste": "Amedeo Modigliani",
+        "oeuvre": "Portrait of a Young Woman"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/roger-weik/nebo-2007",
+        "hash": "ffdbc1dfc1c40400",
+        "artiste": "Roger Weik",
+        "oeuvre": "Nebo"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/j-e-h-macdonald/montreal-river-1920",
+        "hash": "7a7818011f7cf8f4",
+        "artiste": "J. E. H. MacDonald",
+        "oeuvre": "Montreal River"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/eugene-boudin/untitled-1889",
+        "hash": "fffffffff0000151",
+        "artiste": "Eugène Boudin",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-cezanne/mont-sainte-victoire-1",
+        "hash": "fffffe3c18000000",
+        "artiste": "Paul Cézanne",
+        "oeuvre": "Mont Sainte-Victoire"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/hakuin-ekaku/fujiyama-from-shoin-ji",
+        "hash": "fff5e008190c3e7f",
+        "artiste": "Hakuin Ekaku",
+        "oeuvre": "Fujiyama from Shoin-ji"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jean-francois-millet/woman-carrying-firewood-and-a-pail-1860",
+        "hash": "06182c4ce4f1e3ff",
+        "artiste": "Jean-François Millet",
+        "oeuvre": "Woman Carrying Firewood and a Pail"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/eyvind-earle/crimson-autumn-1994",
+        "hash": "c783c38303010100",
+        "artiste": "Eyvind Earle",
+        "oeuvre": "Crimson Autumn"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/aubrey-beardsley/how-king-arthur-saw-the-questing-beast",
+        "hash": "f9fef0c0f8f90000",
+        "artiste": "Aubrey Beardsley",
+        "oeuvre": "How King Arthur Saw the Questing Beast"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/carlo-maria-mariani/autoritratto-immaginario-di-angelica-kauffmann",
+        "hash": "3ff0c0d97f1f1f03",
+        "artiste": "Carlo Maria Mariani",
+        "oeuvre": "Autoritratto Immaginario di Angelica Kauffmann"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/amedeo-modigliani/two-girls-1918",
+        "hash": "0f0b53040e1f1f0f",
+        "artiste": "Amedeo Modigliani",
+        "oeuvre": "Two girls"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/josef-albers/variant-adobe",
+        "hash": "ffc38383c3ffffff",
+        "artiste": "Josef Albers",
+        "oeuvre": "Variant/Adobe"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/louis-comfort-tiffany/autumn-panel-from-the-four-seasons-window-1900",
+        "hash": "0e6626125e1e3e00",
+        "artiste": "Louis Comfort Tiffany",
+        "oeuvre": "Autumn panel from the Four Seasons window"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/raphael-kirchner/portraits-of-viennese-ladies-1901-3",
+        "hash": "03030f077f474303",
+        "artiste": "Raphael Kirchner",
+        "oeuvre": "Portraits of Viennese Ladies"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/karl-knaths/rye-bread",
+        "hash": "0c0f13173e7c303e",
+        "artiste": "Karl Knaths",
+        "oeuvre": "Rye Bread"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mattis-teutsch/composition-1922-11",
+        "hash": "3e2d1d30a0c09fbf",
+        "artiste": "Mattis Teutsch",
+        "oeuvre": "Composition"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/rembrandt/the-circumcision-in-the-stable-1654",
+        "hash": "fdfcfcf8b858b0f0",
+        "artiste": "Rembrandt",
+        "oeuvre": "The circumcision in the stable"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/pablo-picasso/woman-sitting-in-an-armchair-1949",
+        "hash": "c3cbdb9c98ac00a1",
+        "artiste": "Pablo Picasso",
+        "oeuvre": "Woman sitting in an armchair"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/robert-julian-onderdonk/october-landscape",
+        "hash": "ffffff3c38302000",
+        "artiste": "Robert Julian Onderdonk",
+        "oeuvre": "October Landscape"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/martiros-sarian/lori-1936",
+        "hash": "eb0100cc8fff80ff",
+        "artiste": "Martiros Sarian",
+        "oeuvre": "Lori"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/charles-tunnicliffe/berwick-swans",
+        "hash": "58586cfdb1302f02",
+        "artiste": "Charles Tunnicliffe",
+        "oeuvre": "Berwick Swans"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/wojtek-siudmak/the-princess-of-the-sacred-fire",
+        "hash": "000e273f1f4f3f03",
+        "artiste": "Wojtek Siudmak",
+        "oeuvre": "The Princess of the Sacred Fire"
+>>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
     },
     {
         "url_page": "https://www.wikiart.org/fr/jose-malhoa/dying-the-clothes-1905",
@@ -19200,6 +22355,7 @@
         "oeuvre": "Dying the clothes"
     },
     {
+<<<<<<< HEAD
         "url_page": "https://www.wikiart.org/fr/gregoire-michonze/self-portrait-1971",
         "hash": "fef8a0a4e0e0f1f3",
         "artiste": "Grégoire Michonze",
@@ -20252,10 +23408,93 @@
     {
         "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/le-chanteur-des-bois-1897",
         "hash": "fff8f0c0c08cf0ff",
+=======
+        "url_page": "https://www.wikiart.org/fr/howard-mehring/spring-is-1963",
+        "hash": "ff8183818781ffff",
+        "artiste": "Howard Mehring",
+        "oeuvre": "Spring Is"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/piotr-kontchalovski/portrait-of-the-historian-nikolai-alexandrovich-geynike-1919-1",
+        "hash": "f3e3e0e1810380fb",
+        "artiste": "Piotr Kontchalovski",
+        "oeuvre": "Portrait of the historian Nikolai Alexandrovich Geynike"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/cimabue/virgin-and-child-1",
+        "hash": "1866460e60707e7f",
+        "artiste": "Cimabue",
+        "oeuvre": "Virgin and Child"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/wojtek-siudmak/warrior",
+        "hash": "fff3e183c3f3ffff",
+        "artiste": "Wojtek Siudmak",
+        "oeuvre": "Warrior"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theo-van-doesburg/study-for-rhythm-of-a-russian-dance-4",
+        "hash": "c78783c3e3e3efef",
+        "artiste": "Theo van Doesburg",
+        "oeuvre": "Study for Rhythm of a Russian Dance"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/joseph-kosuth/four-colors-four-words",
+        "hash": "00007fff7c000000",
+        "artiste": "Joseph Kosuth",
+        "oeuvre": "Four Colors Four Words"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/joan-miro/not_detected_227978",
+        "hash": "ffff210323f99000",
+        "artiste": "Joan Miró",
+        "oeuvre": "Rhythmic Characters"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/karl-schmidt-rottluff/autumn-landscape-in-oldenburg-1907",
+        "hash": "c02101c1fbfbbded",
+        "artiste": "Karl Schmidt-Rottluff",
+        "oeuvre": "Autumn Landscape in Oldenburg"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/afro-basaldella/feticcio",
+        "hash": "ffff8f8bc3c3e0f0",
+        "artiste": "Afro Basaldella",
+        "oeuvre": "Feticcio"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/carmen-herrera/more-yellow-less-green-1989",
+        "hash": "007f7f7f7fff7f7f",
+        "artiste": "Carmen Herrera",
+        "oeuvre": "More yellow, less green"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mikalojus-konstantinas-ciurlionis/aquarius-1907",
+        "hash": "0000c0fffff6007f",
+        "artiste": "Mikalojus Konstantinas Čiurlionis",
+        "oeuvre": "Aquarius"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vassily-kandinsky/upward-1929",
+        "hash": "001c3f1f9e663020",
+        "artiste": "Vassily Kandinsky",
+        "oeuvre": "Upward"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edouard-cortes/opera-paris",
+        "hash": "fe7e6408000020f1",
+        "artiste": "Édouard Cortès",
+        "oeuvre": "Opera, Paris"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/le-chanteur-des-bois-1897-2",
+        "hash": "f1e1c1818191e1ff",
+>>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
         "artiste": "Théophile Alexandre Steinlen",
         "oeuvre": "Le Chanteur des Bois"
     },
     {
+<<<<<<< HEAD
         "url_page": "https://www.wikiart.org/fr/jacopo-bassano/the-road-to-calvary-1555",
         "hash": "ff7964707c3cd050",
         "artiste": "Jacopo Bassano",
@@ -21604,6 +24843,30 @@
         "hash": "e7000083c3c7e7ef",
         "artiste": "Arnulf Rainer",
         "oeuvre": "Wine Crucifix"
+=======
+        "url_page": "https://www.wikiart.org/fr/giovanni-boldini/lady-in-rose",
+        "hash": "050b5f3f7e7f0000",
+        "artiste": "Giovanni Boldini",
+        "oeuvre": "The Lady in Pink (Portrait of Olivia Concha de Fontecilla)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-william-godward/venus-at-the-bath-1901",
+        "hash": "0000383c3e7fffff",
+        "artiste": "John William Godward",
+        "oeuvre": "Venus at the Bath"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/tadanori-yokoo/nihon-buyo-1981",
+        "hash": "3e3e3020ceffbfef",
+        "artiste": "Tadanori Yokoo",
+        "oeuvre": "Nihon Buyo"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/andre-derain/vista-de-saint-paul-de-vence-1910",
+        "hash": "fefcfec300000000",
+        "artiste": "André Derain",
+        "oeuvre": "Vista de Saint Paul de Vence"
+>>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
     },
     {
         "url_page": "https://www.wikiart.org/fr/george-stefanescu/cathedral-1991",
@@ -21612,6 +24875,7 @@
         "oeuvre": "Cathedral"
     },
     {
+<<<<<<< HEAD
         "url_page": "https://www.wikiart.org/fr/paul-brach/the-negative-way-5-1964",
         "hash": "003c7e7e7e7e3c80",
         "artiste": "Paul Brach",
@@ -22912,6 +26176,72 @@
         "hash": "f7e3238181a3c1b9",
         "artiste": "Ding Yanyong",
         "oeuvre": "Zhong Kui"
+=======
+        "url_page": "https://www.wikiart.org/fr/joaquin-sorolla-y-bastida/study-of-vineyard",
+        "hash": "73dfe6e0e06271e8",
+        "artiste": "Joaquín Sorolla y Bastida",
+        "oeuvre": "Study of Vineyard"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/joseph-stella/the-red-hat-1924",
+        "hash": "ffffffff01040000",
+        "artiste": "Joseph Stella",
+        "oeuvre": "The Red Hat"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/carlo-carra/western-horseman-1917",
+        "hash": "7e3e7efc3c9ccc00",
+        "artiste": "Carlo Carrà",
+        "oeuvre": "Western Horseman"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/elizabeth-thompson/a-little-irish-river",
+        "hash": "07373f3f00001f9f",
+        "artiste": "Elizabeth Thompson",
+        "oeuvre": "A Little Irish River"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/volodimir-orlovski/landscape-with-mountain-creek",
+        "hash": "9f070703011afcfc",
+        "artiste": "Volodimir Orlovski",
+        "oeuvre": "Landscape with mountain creek"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/still-life-with-peaches-and-grapes",
+        "hash": "fff3dbd3f3700000",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Still Life with Peaches and Grapes"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/giovanni-battista-piranesi/the-roman-antiquities-t-2-plate-x-view-of-the-entrance-of-the-burial-chamber-of-l-arrunzio-and-1756",
+        "hash": "95119783870501ff",
+        "artiste": "Giovanni Battista Piranesi",
+        "oeuvre": "The Roman antiquities, t. 2, Plate X. View of the entrance of the burial chamber of L. Arrunzio and his Family"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/leonardo-alenza/the-triumph-of-bacchus",
+        "hash": "00123f1d380e027c",
+        "artiste": "Leonardo Alenza",
+        "oeuvre": "The Triumph of Bacchus"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jamie-wyeth/not-detected-267433",
+        "hash": "7f2f0e343c0c0000",
+        "artiste": "Jamie Wyeth",
+        "oeuvre": "And then deep into the gorge"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/camille-pissarro/london-st-paul-s-cathedral-1890",
+        "hash": "ffffe50000183fff",
+        "artiste": "Camille Pissarro",
+        "oeuvre": "London, St. Paul's Cathedral"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/raphael/the-parnassus-from-the-stanza-delle-segnatura-detail-1511-2",
+        "hash": "6f7d3034e4c64476",
+        "artiste": "Raphaël",
+        "oeuvre": "The Parnassus, from the Stanza delle Segnatura (detail)"
+>>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
     },
     {
         "url_page": "https://www.wikiart.org/fr/piotr-kontchalovski/still-life-samovar-1913",
@@ -22920,6 +26250,7 @@
         "oeuvre": "Still Life. Samovar."
     },
     {
+<<<<<<< HEAD
         "url_page": "https://www.wikiart.org/fr/john-constable/mrs-james-pulham-sr-1818",
         "hash": "001078fcdc080008",
         "artiste": "John Constable",
@@ -24224,10 +27555,465 @@
     {
         "url_page": "https://www.wikiart.org/fr/dilek-demirci/untitled-2009-3",
         "hash": "efb7b5b4b4100000",
+=======
+        "url_page": "https://www.wikiart.org/fr/maarten-van-heemskerck/christ-de-douleur-1532",
+        "hash": "387e6cd4f8f07017",
+        "artiste": "Maarten van Heemskerck",
+        "oeuvre": "Christ de Douleur"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/james-charles/sussex-downs",
+        "hash": "10fefefffff80000",
+        "artiste": "James Charles",
+        "oeuvre": "Sussex Downs"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ivan-chichkine/night-1886",
+        "hash": "ff8fcd8507070000",
+        "artiste": "Ivan Chichkine",
+        "oeuvre": "Night"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/odilon-redon/butterflies-1913",
+        "hash": "03ae8fcdbf06870f",
+        "artiste": "Odilon Redon",
+        "oeuvre": "Butterflies"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/robert-demachy/in-brittany-1904",
+        "hash": "fffff47f51200000",
+        "artiste": "Robert Demachy",
+        "oeuvre": "In Brittany"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paritosh-sen/untitled-1970",
+        "hash": "b6a6077d7c9f0604",
+        "artiste": "Paritosh Sen",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/basil-beattie/the-difference-between-ii-2005",
+        "hash": "8283c0a1b2f2f3e3",
+        "artiste": "Basil Beattie",
+        "oeuvre": "The Difference Between II"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/giovanni-battista-piranesi/set-design-elevations-and-the-temple-of-concordia-in-agrigento",
+        "hash": "ffffffffe7030280",
+        "artiste": "Giovanni Battista Piranesi",
+        "oeuvre": "Set design elevations and the Temple of Concordia in Agrigento"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/charles-willson-peale/edward-burd-1820",
+        "hash": "00181d3f3b110000",
+        "artiste": "Charles Willson Peale",
+        "oeuvre": "Edward Burd"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/mustafa-duzgunman/gul-1",
+        "hash": "7ffe3e1c18181c08",
+        "artiste": "Mustafa Duzgunman",
+        "oeuvre": "Gul"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/albrecht-altdorfer/le-depart-de-saint-florian-1530",
+        "hash": "04133b3fc3c38300",
+        "artiste": "Albrecht Altdorfer",
+        "oeuvre": "Le départ de Saint Florian"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gustave-dore/the-crowned-virgin-vision-of-john",
+        "hash": "fffe1c00000000ff",
+        "artiste": "Gustave Doré",
+        "oeuvre": "The Crowned Virgin Vision Of John"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/vladimir-borovikovski/nikolai-mikhailovich-yakovlev",
+        "hash": "0038f8f8c0c60600",
+        "artiste": "Vladimir Borovikovski",
+        "oeuvre": "Nikolai Mikhailovich Yakovlev"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/konrad-klapheck/the-mistress-1964",
+        "hash": "00f6d6c747c74d40",
+        "artiste": "Konrad Klapheck",
+        "oeuvre": "The Mistress"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jan-matejko/sigmund-and-barbara-2",
+        "hash": "8fbfffdfd2b100e0",
+        "artiste": "Jan Matejko",
+        "oeuvre": "Sigmund and Barbara"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/pavel-filonov/yard-keepers-dvorniki-1913",
+        "hash": "975f59d18581d8ca",
+        "artiste": "Pavel Filonov",
+        "oeuvre": "Yard Keepers (Dvorniki)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/zhu-da/pine-and-deer",
+        "hash": "f8e0e8fcfcf8218f",
+        "artiste": "Zhu Da",
+        "oeuvre": "Pine and Deer"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/lyonel-feininger/mystic-river-1951",
+        "hash": "ffffff00010001df",
+        "artiste": "Lyonel Feininger",
+        "oeuvre": "Mystic River"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-ruskin/portrait-of-rose-la-touche-1861",
+        "hash": "ff8381010181ffff",
+        "artiste": "John Ruskin",
+        "oeuvre": "Portrait of Rose La Touche"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/felix-vallotton/british-poet-alfred-douglas-1896",
+        "hash": "c38c6e309dd9f9f9",
+        "artiste": "Félix Vallotton",
+        "oeuvre": "British poet Alfred Douglas"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/egon-schiele/sitting-woman-in-a-green-blouse-1913",
+        "hash": "e3f3c3c3c3e1efff",
+        "artiste": "Egon Schiele",
+        "oeuvre": "Sitting Woman in a Green Blouse"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/odd-nerdrum/the-kiss-2002",
+        "hash": "00343cfc7c600808",
+        "artiste": "Odd Nerdrum",
+        "oeuvre": "The Kiss"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/le-reve-1890",
+        "hash": "9f0189bfe7ff093f",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "Le Reve"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/felix-vallotton/portrait-of-french-writer-camille-mauclair-1898",
+        "hash": "f7fb8d81b78383fb",
+        "artiste": "Félix Vallotton",
+        "oeuvre": "Portrait of French writer Camille Mauclair"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/hubert-robert/ruines-antiques-utilisees-comme-bains-publics-1798",
+        "hash": "00507c7c7c7c1e0e",
+        "artiste": "Hubert Robert",
+        "oeuvre": "Ruines antiques utilisées comme bains publics"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/lucas-cranach-lancien/the-holy-family-1509",
+        "hash": "03823f1f1f8336fe",
+        "artiste": "Lucas Cranach l'Ancien",
+        "oeuvre": "The Holy Family"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-singer-sargent/venetian-street-1882",
+        "hash": "1b232f0f0321e0fc",
+        "artiste": "John Singer Sargent",
+        "oeuvre": "Venetian Street"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/dan-christensen/shale-1974",
+        "hash": "bf8383818385c181",
+        "artiste": "Dan Christensen",
+        "oeuvre": "Shale"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/wojtek-siudmak/eternal-flame",
+        "hash": "ffefefe70080e1ff",
+        "artiste": "Wojtek Siudmak",
+        "oeuvre": "Eternal Flame"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/patrick-caulfield/terracotta-vase-1975",
+        "hash": "ff818d9d89899dff",
+        "artiste": "Patrick Caulfield",
+        "oeuvre": "Terracotta Vase"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/peder-severin-kroyer/italian-village-workers-making-hats-1880",
+        "hash": "fffb1c3c11000000",
+        "artiste": "Peder Severin Krøyer",
+        "oeuvre": "Italian village workers making hats"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/charles-turner/frances-teresa-stuart-duchess-of-richmond-and-lennox-1810",
+        "hash": "ffc381918181ffff",
+        "artiste": "Charles Turner",
+        "oeuvre": "Frances Teresa Stuart, Duchess of Richmond and Lennox"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/john-riley/robert-sanderson",
+        "hash": "00081858dfcdcd0d",
+        "artiste": "John Riley",
+        "oeuvre": "Robert Sanderson"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-toulmouche/the-admiring-glance-1868",
+        "hash": "000000ccfbf93c7c",
+        "artiste": "Auguste Toulmouche",
+        "oeuvre": "The Admiring Glance"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/maurice-prendergast/bathers-2",
+        "hash": "00e2434bf3f13319",
+        "artiste": "Maurice Prendergast",
+        "oeuvre": "Bathers"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/winslow-homer/girl-carrying-a-basket",
+        "hash": "ff7f1f0f07070300",
+        "artiste": "Winslow Homer",
+        "oeuvre": "Girl Carrying a Basket"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/ferdinand-georg-waldmuller/the-day-laborer-with-his-son-1823",
+        "hash": "9fcf1f37e3830302",
+        "artiste": "Ferdinand Georg Waldmüller",
+        "oeuvre": "The day laborer with his son"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/auguste-renoir/woman-with-a-blue-blouse-1883",
+        "hash": "f7e3cffbc1c08080",
+        "artiste": "Auguste Renoir",
+        "oeuvre": "Woman with a Blue Blouse"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/giorgio-cavallon/untitled-1956",
+        "hash": "0c0c3e7efe1f3db1",
+        "artiste": "Giorgio Cavallon",
+        "oeuvre": "Untitled"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gustave-dore/orlando-furioso-3",
+        "hash": "3f0fe72f2d00071f",
+        "artiste": "Gustave Doré",
+        "oeuvre": "Orlando Furioso"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henri-rousseau/not_detected_191329",
+        "hash": "004038ffd947f2f0",
+        "artiste": "Henri Rousseau",
+        "oeuvre": "Still Life with Exotic Fruit"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/henri-martin/the-bridge-in-labastide-du-vert-4",
+        "hash": "ffcfffffad000003",
+        "artiste": "Henri Martin",
+        "oeuvre": "The Bridge in Labastide du Vert"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/reg-butler/circe-head-1953",
+        "hash": "f7c3c3e3e3c3830f",
+        "artiste": "Reg Butler",
+        "oeuvre": "Circe Head"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/luc-tuymans/petrus-paulus-1998",
+        "hash": "002878fcf0607c7e",
+        "artiste": "Luc Tuymans",
+        "oeuvre": "Petrus & Paulus"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/brassai/graffiti-paris-1945",
+        "hash": "183f5b7e3c1a0000",
+        "artiste": "Brassaï",
+        "oeuvre": "Graffiti, Paris"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/rembrandt/healing-of-peter-s-mother-in-law-1660",
+        "hash": "ffe7e38383f1e1e7",
+        "artiste": "Rembrandt",
+        "oeuvre": "Healing of Peter`s Mother in law"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/claude-monet/the-blue-house-at-zaandam",
+        "hash": "fffbf1000482307f",
+        "artiste": "Claude Monet",
+        "oeuvre": "The Blue House at Zaandam"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/brice-marden/mirabelle-addenda-2-1979",
+        "hash": "3c81819981ffffff",
+        "artiste": "Brice Marden",
+        "oeuvre": "Mirabelle Addenda 2"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/paul-gauguin/fruit-in-a-bowl-1886",
+        "hash": "0301e3e3091b07ff",
+        "artiste": "Paul Gauguin",
+        "oeuvre": "Fruit in a bowl"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/eugene-boudin/not_detected_246183",
+        "hash": "fffffefe7e020e00",
+        "artiste": "Eugène Boudin",
+        "oeuvre": "View at Saint-Quay-Portriaux"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/edouard-cortes/notre-dame-paris",
+        "hash": "c00000000081ffff",
+        "artiste": "Édouard Cortès",
+        "oeuvre": "Notre Dame Paris"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/pablo-picasso/standing-female-nude-1908",
+        "hash": "10187e5e301c3810",
+        "artiste": "Pablo Picasso",
+        "oeuvre": "Standing female nude"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/candido-portinari/hill-1933",
+        "hash": "ffe3e28060412071",
+        "artiste": "Candido Portinari",
+        "oeuvre": "Hill"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/thomas-sully/from-sketchbook-1820",
+        "hash": "ff838383838387ff",
+        "artiste": "Thomas Sully",
+        "oeuvre": "From Sketchbook"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/fra-angelico/dispute-before-sanhedrin-1449",
+        "hash": "010cfc80879f8dff",
+        "artiste": "Fra Angelico",
+        "oeuvre": "Dispute before Sanhedrin"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/victor-borissov-moussatov/bluebells-1903",
+        "hash": "bc9cf87ce60e0623",
+        "artiste": "Victor Borissov-Moussatov",
+        "oeuvre": "Bluebells"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gabriel-metsu/the-virginal-player",
+        "hash": "808006272f0e0c3f",
+        "artiste": "Gabriel Metsu",
+        "oeuvre": "The Virginal Player"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/raphael-kirchner/from-arcadia",
+        "hash": "0f8f8f8f8f8f8f8f",
+        "artiste": "Raphael Kirchner",
+        "oeuvre": "From Arcadia"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/alexey-venetsianov/a-boy-in-a-red-shirt",
+        "hash": "0018191e1e262c1d",
+        "artiste": "Alexey Venetsianov",
+        "oeuvre": "A Boy in a Red Shirt"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/arturo-michelena/la-joven-madre-1889",
+        "hash": "530460783c1e3a7d",
+        "artiste": "Arturo Michelena",
+        "oeuvre": "The Young Mother"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gustave-caillebotte/portrait-of-jean-daurelle",
+        "hash": "ffffffff83090800",
+        "artiste": "Gustave Caillebotte",
+        "oeuvre": "Portrait of Jean Daurelle"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/david-michael-hinnebusch/warrior-2005",
+        "hash": "6797d642078fff10",
+        "artiste": "David Michael Hinnebusch",
+        "oeuvre": "Warrior"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/utamaro/illustration-from-the-twelve-hours-of-the-green-houses-c-1795-colour-woodblock-print",
+        "hash": "26fff3e1f1f3c101",
+        "artiste": "Utamaro",
+        "oeuvre": "Illustration from `The Twelve Hours of the Green Houses', c.1795 (colour woodblock print)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/felix-vallotton/the-black-stocking-1904",
+        "hash": "631f23732101030f",
+        "artiste": "Félix Vallotton",
+        "oeuvre": "The Black Stocking"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/georges-hugnet/a-little-girl-imagining-an-orgy",
+        "hash": "ef9981e181a1c183",
+        "artiste": "Georges Hugnet",
+        "oeuvre": "A Little Girl Imagining an Orgy"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/arturo-souto/roofs-of-madrid-1955",
+        "hash": "7effffff0f012000",
+        "artiste": "Arturo Souto",
+        "oeuvre": "Roofs of Madrid"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/piotr-kontchalovski/oak-1920",
+        "hash": "2c67636f63772302",
+        "artiste": "Piotr Kontchalovski",
+        "oeuvre": "Oak"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/eugene-boudin/near-rotterdam-1876",
+        "hash": "58ff7ffff70010c0",
+        "artiste": "Eugène Boudin",
+        "oeuvre": "Near Rotterdam"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/peter-alexander/bullfrog-1986",
+        "hash": "1c3c3e3f1e1e1c08",
+        "artiste": "Peter Alexander",
+        "oeuvre": "Bullfrog"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/gustave-dore/the-wandering-jew",
+        "hash": "00c7c0c88cc0f3f7",
+        "artiste": "Gustave Doré",
+        "oeuvre": "The Wandering Jew"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/anne-appleby/winter-aspen-2000",
+        "hash": "e7e3e7e3e3e3e3e7",
+        "artiste": "Anne Appleby",
+        "oeuvre": "Winter Aspen"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/corneliu-baba/portrait-of-a-woman-elena-hascke",
+        "hash": "00081830787c7c7c",
+        "artiste": "Corneliu Baba",
+        "oeuvre": "Portrait of a Woman (Elena Hascke)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/theophile-alexandre-steinlen/musica-1908",
+        "hash": "fffa701f3c0000ff",
+        "artiste": "Théophile Alexandre Steinlen",
+        "oeuvre": "Musica"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/david-burdeny/pink-dusk-antarctica-2008",
+        "hash": "ffffff3c00000000",
+        "artiste": "David Burdeny",
+        "oeuvre": "Pink Dusk, Antarctica"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/guy-rose/gathering-storm-high-seas",
+        "hash": "fb3c3e3cfcc0243c",
+        "artiste": "Guy Rose",
+        "oeuvre": "Gathering Storm, High Seas"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/dilek-demirci/untitled-1997-1",
+        "hash": "edfefefc9cc00000",
+>>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
         "artiste": "Dilek Demirci",
         "oeuvre": "Untitled"
     },
     {
+<<<<<<< HEAD
         "url_page": "https://www.wikiart.org/fr/theophrastos-triantafyllidis/two-children-on-the-beach-1919",
         "hash": "0800f8fc3d00f97f",
         "artiste": "Theophrastos Triantafyllidis",
@@ -26818,5 +30604,59 @@
         "hash": "e7c38181c3e7f7ff",
         "artiste": "Kasimir Malevitch",
         "oeuvre": "Black cross on a red oval"
+=======
+        "url_page": "https://www.wikiart.org/fr/canaletto/the-tow-of-malghera",
+        "hash": "07fffffffb800020",
+        "artiste": "Canaletto",
+        "oeuvre": "The Tower of Malghera"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/romare-bearden/clockwise-series-1979-1984",
+        "hash": "d01707060f2ee9cb",
+        "artiste": "Romare Bearden",
+        "oeuvre": "Clockwise series, 1979-1984"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/valentin-serov/portrait-of-the-artist-vasily-surikov",
+        "hash": "fff7e78301010000",
+        "artiste": "Valentin Serov",
+        "oeuvre": "Portrait of the Artist Vasily Surikov"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jose-de-ribera/st-mary-magdalene-or-st-thais-in-the-desert",
+        "hash": "c4ecfcecc0185040",
+        "artiste": "José de Ribera",
+        "oeuvre": "St. Mary Magdalene or St. Thais in the Desert"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/huguette-arthur-bertrand/malicorne-1960",
+        "hash": "dfcfc0c3c78783c3",
+        "artiste": "Huguette Arthur Bertrand",
+        "oeuvre": "Malicorne"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/phil-sims/green-portrait-9",
+        "hash": "00ffffffff7f0000",
+        "artiste": "Phil Sims",
+        "oeuvre": "Green Portrait #9"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/jozsef-rippl-ronai/girl-with-cage-1892",
+        "hash": "4077e70307070303",
+        "artiste": "József Rippl-Rónai",
+        "oeuvre": "Girl With Cage"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/cesar-paternosto/verano-summer-from-the-color-field-soho-series-1967",
+        "hash": "ff931105051191ff",
+        "artiste": "Cesar Paternosto",
+        "oeuvre": "Verano (Summer from the color field SOHO series)"
+    },
+    {
+        "url_page": "https://www.wikiart.org/fr/pierre-bonnard/woman-with-dog-also-known-as-marthe-bonnard-and-her-dog-1906",
+        "hash": "c0e0f080ed29197b",
+        "artiste": "Pierre Bonnard",
+        "oeuvre": "Woman with Dog (also known as Marthe Bonnard and Her Dog)"
+>>>>>>> 7d2e3bd13512b1232ec26e5cd5384572b0ec297a
     }
 ]

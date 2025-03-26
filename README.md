@@ -70,8 +70,9 @@ Un seuil faible recherche des copies très proches, un seuil élevé élargit la
 - [X] 🎯 Ajouter un fonctionalité pour gérer le seuil du comparaison du hash
 - [X] 💬 Ajouter un système de logs ou de console debug propre
 - [X] 📱 Mettre en marche la version App
+- [X] 📗 Augmenter le nombre d'œuvres dans la base de donnée
 - [ ] ℹ️ Bouton info à coté du seuil
-- [ ] 📗 Augmenter le nombre d'œuvres dans la base de donnée
+- [ ] 🔗 Bouton Visit Github + Section footer
 - [ ] 🥖 Ajuster le rendu des informations entièrement en français
 - [ ] 🔒 Ajouter une gestion d’erreur plus fine (upload invalide, mauvais format)
 - [ ] 📦 Packager le projet avec setup.py ou en .exe via pyinstaller pour Tkinter
