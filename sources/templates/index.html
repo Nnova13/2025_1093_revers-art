@@ -6,9 +6,10 @@
     <title>Trophée NSI - Recherche d'Œuvres d'Art</title>
     <link rel="icon" type="image/png" sizes="32x32" href="https://trophees-nsi.fr/favicon-32x32.png"> 
     <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet">
+    <script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
 </head>
 <body>
-    <div class="wrapper">
+    <div class="wrapper" style="flex: 1;">
         <header>
             <h1>🎨 Recherche d'Œuvres d'Art</h1>
         </header>
@@ -41,26 +42,10 @@
             </a>
         </div>
     </div>
-
-    <script>
-        const fileInput = document.getElementById('fileInput');
-        const fileName = document.getElementById('fileName');
-        const imagePreview = document.getElementById('imagePreview');
-
-        fileInput.addEventListener('change', function () {
-            if (this.files && this.files[0]) {
-                fileName.textContent = `Fichier sélectionné : ${this.files[0].name}`;
-                const reader = new FileReader();
-                reader.onload = function (e) {
-                    imagePreview.src = e.target.result;
-                    imagePreview.style.display = 'block';
-                };
-                reader.readAsDataURL(this.files[0]);
-            } else {
-                fileName.textContent = "Aucun fichier sélectionné";
-                imagePreview.style.display = 'none';
-            }
-        });
-    </script>
+    <footer>
+        <p>
+            <a href="https://github.com/Nnova13/2025_1093_revers-art" target="_blank">GitHub</a> | 📜 GNU GENERAL PUBLIC LICENSE
+        </p>
+    </footer>
 </body>
 </html>
