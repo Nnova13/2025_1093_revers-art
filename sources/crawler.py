@@ -70,7 +70,7 @@ def hacher_image():
 
         url_page = r.url
         soup = BeautifulSoup(r.content, "html.parser")
-        artiste, oeuvre, img_url = extraire_infos(soup, url_page)
+        artiste, oeuvre, img_url = extraire_infos(soup)
 
         if not img_url:
             print(f"❌ Aucune image trouvée sur {url_page}")
