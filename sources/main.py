@@ -38,7 +38,7 @@ def uploadImageAndRenderResult():
         return render_template('error.html', error='Fichier non autorisé ou invalide')
 
 if __name__ == "__main__":
-    pro = True
+    pro = False
     print("==============================")
     print("🚀 Lancement du serveur...")
     print("🌐 http://127.0.0.1:5000")

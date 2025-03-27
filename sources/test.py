@@ -1,8 +1,7 @@
 import json
 import imagehash
-import os.path
 
-FICHIER_JSON = os.path.abspath('../data/crawler.json')
+FICHIER_JSON ='./data/crawler.json'
 
 def charger_hashes():
     """Charge la base de données des hashes depuis le fichier JSON."""
@@ -44,7 +43,7 @@ def rechercher_image_pil(image, seuil_hamming=5):
     print("❌ Aucune correspondance trouvée.")
     return None
 
-def final_res(image_test, seuil=18):
+def final_res(image_test, seuil=5):
     resultat = rechercher_image_pil(image_test, seuil)
     if resultat:
         print(f"🔎 Infos de l'œuvre trouvée :\n • 🌐 url : {resultat['url_page']}\n • 🧬 hash : {resultat['hash']}\n • 🖼️ oeuvre : {resultat['oeuvre']}\n • 🎨 artiste : {resultat['artiste']}")

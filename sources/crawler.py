@@ -91,7 +91,7 @@ def hacher_image():
 
         data = {"url_page": url_page, "hash": hash_image, "artiste": artiste, "oeuvre": oeuvre}
         sauvegarder_hashes([data])
-        # print(f"✅ Ajouté : {artiste} - {oeuvre} ({url_page})")
+        print(f"✅ Ajouté : {artiste} - {oeuvre} ({url_page})")
 
     except requests.exceptions.RequestException as e:
         print(f"⚠️ Erreur réseau : {e}")
