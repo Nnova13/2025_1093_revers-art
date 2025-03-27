@@ -2,7 +2,7 @@ import json
 import imagehash
 import os.path
 
-FICHIER_JSON = os.path.abspath('./data/crawler.json')
+FICHIER_JSON = os.path.abspath('../data/crawler.json')
 
 def charger_hashes():
     """Charge la base de données des hashes depuis le fichier JSON."""
