@@ -8,7 +8,7 @@ from sources.test import final_res
 import os
 
 # Image folder clearing from start
-folder = os.path.abspath('data/image')
+folder = os.path.abspath('sources/revers-art-app/data/image')
 for filename in os.listdir(folder):
     file_path = os.path.join(folder, filename)
     try:
@@ -39,9 +39,7 @@ def import_file():
     global copy_path, file_path
     file_path = filedialog.askopenfilename(title="Selectionner une image", filetypes=[("Fichier Image", "*.jpeg;*.jpg;*.png;*.gif"), ("Tout les fichiers", "*.*")])
     if file_path:
-        print("Fichier sélectionné:", file_path)
         copy_path = shutil.copy(src=file_path, dst="data/image")
-        print(copy_path)
 
         image = CTkImage(light_image=Image.open(copy_path), dark_image=Image.open(copy_path), size=(250, 250))
         imageLabel.configure(text="", image=image)
@@ -52,7 +50,6 @@ def import_file():
             data = scrapInfos(final_res(imageScrap))
         except:
             data = "Aucune oeuvre trouvée"
-        print(data)
 
         if "error" in data:
             formatted_data = data["error"]

@@ -1,8 +1,7 @@
 import json
 import imagehash
-import os.path
 
-FICHIER_JSON = os.path.abspath('./data/crawler.json')
+FICHIER_JSON ='./data/crawler.json'
 
 def charger_hashes():
     """Charge la base de données des hashes depuis le fichier JSON."""
@@ -16,7 +15,7 @@ def phash_image(image):
     """Calcule le hash perceptuel (average hash) de l'image."""
     return imagehash.average_hash(image)
 
-def rechercher_image_pil(image, seuil_hamming=2):
+def rechercher_image_pil(image, seuil_hamming=5):
     """Recherche une image PIL dans la base avec une distance de Hamming."""
     base_hashes = charger_hashes()
     if not base_hashes:
@@ -32,7 +31,6 @@ def rechercher_image_pil(image, seuil_hamming=2):
         distance = new_hash - hash_image
 
         if distance == 0:
-            print(f"✅ Correspondance exacte trouvée ! ({h['oeuvre']})")
             return h
 
         if distance < distance_minimale:
@@ -40,7 +38,6 @@ def rechercher_image_pil(image, seuil_hamming=2):
             meilleure_correspondance = h
 
     if meilleure_correspondance and distance_minimale <= seuil_hamming:
-        print(f"✅ Image trouvée ! ({meilleure_correspondance['oeuvre']})")
         return meilleure_correspondance
 
     print("❌ Aucune correspondance trouvée.")
@@ -49,5 +46,5 @@ def rechercher_image_pil(image, seuil_hamming=2):
 def final_res(image_test, seuil=5):
     resultat = rechercher_image_pil(image_test, seuil)
     if resultat:
-        print(f"🖼️ Infos de l'œuvre trouvée : {resultat}")
+        print(f"🔎 Infos de l'œuvre trouvée :\n • 🌐 url : {resultat['url_page']}\n • 🧬 hash : {resultat['hash']}\n • 🖼️ oeuvre : {resultat['oeuvre']}\n • 🎨 artiste : {resultat['artiste']}")
         return resultat['url_page']

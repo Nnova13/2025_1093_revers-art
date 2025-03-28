@@ -49,7 +49,7 @@ Un seuil faible recherche des copies très proches, un seuil élevé élargit la
 
 3. Lancer le serveur Flask 🚀 :
    ```bash
-   python ./source/main.py
+   ./server.bat
    ```
 
 4. Ouvrir le navigateur 🌍 :
