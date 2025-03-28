@@ -58,29 +58,28 @@ def import_file():
             artiste = data.get("ARTISTE", {})
             formatted_data = (
                 rf"""
-                 ____                                 _         _
-                |  _ \ _____   _____ _ __ ___  ___   / \   _ __| |_
-                | |_) / _ \ \ / / _ \ '__/ __|/ _ \ / _ \ | '__| __|
-                |  _ <  __/\ V /  __/ |  \__ \  __// ___ \| |  | |_
-                |_| \_\___| \_/ \___|_|  |___/\___/_/   \_\_|   \__|
+ ____                                 _         _   
+|  _ \ _____   _____ _ __ ___  ___   / \   _ __| |_ 
+| |_) / _ \ \ / / _ \ '__/ __|/ _ \ / _ \ | '__| __|
+|  _ <  __/\ V /  __/ |  \__ \  __// ___ \| |  | |_ 
+|_| \_\___| \_/ \___|_|  |___/\___/_/   \_\_|   \__|
+────────────────────────────────────────────────────
+📜 𝐎𝐄𝐔𝐕𝐑𝐄
+────────────────────────────────────────────────────
+🎫 Nom: {oeuvre.get('nomOeuvre', 'N/A')}
+📅 Date: {oeuvre.get('date', 'N/A')}
+🏦 Lieu d'exposition: {oeuvre.get('lieuExposition', 'N/A')}
+🎨 Style: {oeuvre.get('style', 'N/A')}
+📏 Dimension: {oeuvre.get('dimension', 'N/A')}
 
-                ────────────────────────────────────────────────────
-                📜 𝐎𝐄𝐔𝐕𝐑𝐄
-                ────────────────────────────────────────────────────
-                🎫 Nom: {oeuvre.get('nomOeuvre', 'N/A')}
-                📅 Date: {oeuvre.get('date', 'N/A')}
-                🏦 Lieu d'exposition: {oeuvre.get('lieuExposition', 'N/A')}
-                🎨 Style: {oeuvre.get('style', 'N/A')}
-                📏 Dimension: {oeuvre.get('dimension', 'N/A')}
-
-                👨‍🎨 𝐀𝐑𝐓𝐈𝐒𝐓𝐄
-                ────────────────────────────────────────────────────
-                👤 Nom: {artiste.get('nomArtiste', 'N/A')}
-                🎂 Date naissance: {artiste.get('birthArtiste', 'N/A')}
-                📍 Lieu naissance: {artiste.get('birthPlace', 'N/A')}
-                ⚰️ Date Mort: {artiste.get('deathArtiste', 'N/A')}
-                🏡 Lieu mort: {artiste.get('deathPlace', 'N/A')}
-                🌍 Nationalité: {artiste.get('nationality', 'N/A')}
+👨‍🎨 𝐀𝐑𝐓𝐈𝐒𝐓𝐄
+────────────────────────────────────────────────────
+👤 Nom: {artiste.get('nomArtiste', 'N/A')}
+🎂 Date naissance: {artiste.get('birthArtiste', 'N/A')}
+📍 Lieu naissance: {artiste.get('birthPlace', 'N/A')}
+⚰️ Date Mort: {artiste.get('deathArtiste', 'N/A')}
+🏡 Lieu mort: {artiste.get('deathPlace', 'N/A')}
+🌍 Nationalité: {artiste.get('nationality', 'N/A')}
                 """
             )
 
@@ -121,8 +120,8 @@ textFrame.grid_rowconfigure(0, weight=1)
 
 textBox = CTkTextbox(
     textFrame,
-    wrap="word",
-    font=("Arial", 20),
+    wrap="none",
+    font=("Courier New", 25),
     fg_color="#2A2D2E",
     text_color="white",
     corner_radius=10,
